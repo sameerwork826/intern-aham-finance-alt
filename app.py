@@ -70,8 +70,19 @@ with tab3:
             st.write(answer_query(applicant_id, question))
         st.markdown("---")
         if os.path.exists(MODEL_PATH):
-            with open(MODEL_PATH,"rb") as f: model = pickle.load(f)
-            with open(SCALER_PATH,"rb") as f: scaler = pickle.load(f)
+            with open(MODEL_PATH, "rb") as f:
+                model_data = pickle.load(f)
+            # Support both old and new formats
+            if isinstance(model_data, dict) and all(k in model_data for k in ["model", "scaler", "feature_names"]):
+                model = model_data["model"]
+                scaler = model_data["scaler"]
+                feature_names = model_data.get("feature_names", [])
+            else:
+                # Fallback for older pickles that stored only the model
+                model = model_data
+                with open(SCALER_PATH, "rb") as f:
+                    scaler = pickle.load(f)
+                feature_names = []
             if app_features:
                 # Preprocess features the same way as in training
                 feature_df = row.drop(columns=["approved", "applicant_id", "name"])
@@ -81,6 +92,13 @@ with tab3:
                 if len(categorical_columns) > 0:
                     # One-hot encode categorical variables
                     feature_df = pd.get_dummies(feature_df, columns=categorical_columns, drop_first=True)
+                
+                # Ensure columns align with training-time feature order
+                try:
+                    if 'feature_names' in locals() and feature_names:
+                        feature_df = feature_df.reindex(columns=feature_names, fill_value=0)
+                except Exception:
+                    pass
                 
                 X = feature_df.values
                 Xs = scaler.transform(X)

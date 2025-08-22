@@ -1,0 +1,2001 @@
+applicant_id,name,age,income,employment_status,credit_score,loan_amount,loan_purpose,existing_debt,approved
+2000,Aarav Sharma,38,615917,Self-Employed,599,716172,Business Expansion,183441,0
+2001,Vivaan Sharma,31,653368,Salaried,627,100000,Home Renovation,72777,1
+2002,Aditya Sharma,21,667439,Salaried,638,722906,Home Renovation,89973,0
+2003,Vihaan Sharma,35,451169,Salaried,633,292810,Education,93051,0
+2004,Arjun Sharma,30,399317,Contract,630,447968,Debt Consolidation,26703,0
+2005,Sai Sharma,31,412501,Contract,512,454055,Medical,38534,0
+2006,Atharv Sharma,26,310471,Salaried,621,372703,Home Renovation,126848,0
+2007,Ishaan Sharma,28,451502,Salaried,568,619089,Business Expansion,20309,0
+2008,Ananya Sharma,28,348312,Contract,533,312200,Car Purchase,144531,0
+2009,Diya Sharma,41,736974,Contract,578,1155252,Debt Consolidation,175863,0
+2010,Aadhya Sharma,28,402172,Salaried,619,100000,Home Renovation,120625,1
+2011,Aarohi Sharma,35,163667,Contract,586,100000,Business Expansion,4213,0
+2012,Anika Sharma,40,790532,Self-Employed,623,106921,Education,160142,1
+2013,Myra Sharma,35,619018,Contract,595,526350,Medical,217256,0
+2014,Sara Sharma,28,452559,Salaried,721,213120,Business Expansion,102730,1
+2015,Aisha Sharma,36,240107,Self-Employed,650,100000,Home Renovation,57345,1
+2016,Aarav Verma,34,609696,Salaried,705,729915,Debt Consolidation,21966,0
+2017,Vivaan Verma,44,703045,Salaried,643,1279333,Business Expansion,321715,0
+2018,Aditya Verma,39,653580,Salaried,743,494803,Education,171333,1
+2019,Vihaan Verma,35,475471,Salaried,615,220461,Debt Consolidation,152644,0
+2020,Arjun Verma,38,1048874,Self-Employed,652,420076,Debt Consolidation,35113,1
+2021,Sai Verma,35,616750,Salaried,698,400384,Business Expansion,168288,1
+2022,Atharv Verma,39,457550,Contract,640,517947,Business Expansion,197918,0
+2023,Ishaan Verma,39,183093,Unemployed,576,100000,Car Purchase,15729,0
+2024,Ananya Verma,40,386901,Salaried,714,604327,Home Renovation,49096,0
+2025,Diya Verma,38,279208,Salaried,611,330657,Business Expansion,99972,0
+2026,Aadhya Verma,37,998082,Self-Employed,751,179252,Car Purchase,263558,1
+2027,Aarohi Verma,57,649791,Self-Employed,610,773823,Car Purchase,138749,0
+2028,Anika Verma,34,287842,Unemployed,572,212868,Debt Consolidation,6555,0
+2029,Myra Verma,40,691237,Self-Employed,612,714708,Debt Consolidation,188748,0
+2030,Sara Verma,42,461733,Salaried,689,282095,Debt Consolidation,238641,1
+2031,Aisha Verma,39,4000000,Self-Employed,699,3000000,Education,1592921,1
+2032,Aarav Iyer,22,1794387,Self-Employed,575,1362338,Debt Consolidation,326120,0
+2033,Vivaan Iyer,31,791062,Salaried,712,1044665,Education,213019,1
+2034,Aditya Iyer,31,629894,Salaried,619,149316,Debt Consolidation,197375,1
+2035,Vihaan Iyer,28,966518,Salaried,625,1961884,Car Purchase,146911,0
+2036,Arjun Iyer,38,1507066,Self-Employed,583,2620835,Home Renovation,267300,0
+2037,Sai Iyer,29,492774,Salaried,673,354438,Car Purchase,167535,1
+2038,Atharv Iyer,48,322845,Self-Employed,658,333863,Home Renovation,58160,0
+2039,Ishaan Iyer,50,811741,Self-Employed,681,1099562,Business Expansion,315714,0
+2040,Ananya Iyer,30,1131394,Salaried,641,1316842,Home Renovation,382691,0
+2041,Diya Iyer,25,1447075,Self-Employed,568,3000000,Debt Consolidation,182768,0
+2042,Aadhya Iyer,42,769618,Self-Employed,626,1017316,Business Expansion,293619,0
+2043,Aarohi Iyer,34,563016,Salaried,629,1073015,Home Renovation,238882,0
+2044,Anika Iyer,29,337829,Salaried,547,221627,Education,80579,0
+2045,Myra Iyer,32,150000,Unemployed,605,100000,Business Expansion,50891,0
+2046,Sara Iyer,43,1144091,Salaried,746,1204204,Medical,355454,1
+2047,Aisha Iyer,36,452512,Salaried,682,757221,Home Renovation,172353,0
+2048,Aarav Kumar,21,1126627,Self-Employed,516,456716,Business Expansion,222249,0
+2049,Vivaan Kumar,34,380451,Salaried,628,662554,Car Purchase,92362,0
+2050,Aditya Kumar,30,328737,Salaried,650,589308,Car Purchase,40560,0
+2051,Vihaan Kumar,35,325055,Unemployed,611,329702,Home Renovation,43573,0
+2052,Arjun Kumar,29,150000,Unemployed,560,182104,Debt Consolidation,71831,0
+2053,Sai Kumar,52,407214,Salaried,685,652499,Education,19033,1
+2054,Atharv Kumar,24,412535,Salaried,705,257005,Business Expansion,10771,1
+2055,Ishaan Kumar,40,906032,Salaried,715,100000,Medical,162744,1
+2056,Ananya Kumar,37,831827,Salaried,675,986876,Car Purchase,446466,0
+2057,Diya Kumar,42,718197,Salaried,642,362710,Education,109606,1
+2058,Aadhya Kumar,40,376125,Self-Employed,614,429294,Medical,76887,0
+2059,Aarohi Kumar,30,598254,Contract,614,100000,Car Purchase,269999,1
+2060,Anika Kumar,46,734715,Salaried,722,227589,Debt Consolidation,0,1
+2061,Myra Kumar,36,222919,Self-Employed,705,100000,Car Purchase,9582,1
+2062,Sara Kumar,34,622246,Salaried,603,755312,Education,218066,0
+2063,Aisha Kumar,40,488091,Salaried,628,337116,Car Purchase,158925,1
+2064,Aarav Patel,35,455420,Salaried,689,355886,Business Expansion,94239,1
+2065,Vivaan Patel,29,440775,Contract,630,251429,Medical,69177,0
+2066,Aditya Patel,41,411218,Salaried,659,619155,Business Expansion,110664,0
+2067,Vihaan Patel,27,555608,Salaried,577,310471,Debt Consolidation,155858,1
+2068,Arjun Patel,44,584298,Salaried,613,465077,Debt Consolidation,164189,1
+2069,Sai Patel,34,907075,Salaried,750,673992,Business Expansion,364807,1
+2070,Atharv Patel,22,240111,Contract,525,100000,Home Renovation,81472,0
+2071,Ishaan Patel,32,497090,Salaried,625,325314,Home Renovation,87950,1
+2072,Ananya Patel,35,403998,Salaried,673,459927,Home Renovation,95854,0
+2073,Diya Patel,49,387112,Contract,647,667568,Car Purchase,200317,0
+2074,Aadhya Patel,30,380516,Salaried,582,438165,Medical,97873,0
+2075,Aarohi Patel,25,593451,Salaried,611,295593,Debt Consolidation,152582,1
+2076,Anika Patel,30,965233,Self-Employed,649,100000,Medical,450025,1
+2077,Myra Patel,30,788006,Contract,624,1054294,Car Purchase,174636,0
+2078,Sara Patel,31,464447,Salaried,671,100000,Car Purchase,188211,1
+2079,Aisha Patel,48,721231,Salaried,706,1019067,Home Renovation,212281,0
+2080,Aarav Singh,37,500475,Salaried,697,242158,Medical,132297,1
+2081,Vivaan Singh,44,424882,Self-Employed,724,630138,Business Expansion,104160,0
+2082,Aditya Singh,47,479699,Contract,673,404181,Car Purchase,83226,1
+2083,Vihaan Singh,26,1531363,Salaried,693,2172836,Education,842092,0
+2084,Arjun Singh,21,912200,Salaried,637,804262,Education,589769,0
+2085,Sai Singh,27,438920,Contract,640,277649,Business Expansion,154001,0
+2086,Atharv Singh,36,418755,Contract,570,432367,Car Purchase,96787,0
+2087,Ishaan Singh,46,424369,Salaried,699,372379,Debt Consolidation,190043,1
+2088,Ananya Singh,33,673234,Salaried,640,571287,Business Expansion,336854,0
+2089,Diya Singh,38,316343,Salaried,635,192250,Home Renovation,122071,1
+2090,Aadhya Singh,32,366852,Salaried,652,221854,Business Expansion,100421,1
+2091,Aarohi Singh,36,513740,Salaried,762,929872,Education,43120,1
+2092,Anika Singh,30,150000,Self-Employed,616,159601,Debt Consolidation,21394,0
+2093,Myra Singh,41,339663,Salaried,707,482652,Car Purchase,149700,0
+2094,Sara Singh,21,769595,Salaried,635,1156557,Medical,305332,0
+2095,Aisha Singh,44,245281,Unemployed,558,278324,Home Renovation,28187,0
+2096,Aarav Reddy,37,348749,Salaried,612,616424,Education,44484,0
+2097,Vivaan Reddy,31,1096729,Self-Employed,667,869594,Medical,214796,1
+2098,Aditya Reddy,42,649865,Self-Employed,637,766548,Car Purchase,156915,0
+2099,Vihaan Reddy,24,521925,Self-Employed,574,612441,Car Purchase,113070,0
+2100,Arjun Reddy,36,383682,Salaried,740,278679,Debt Consolidation,137219,1
+2101,Sai Reddy,31,430984,Salaried,613,406129,Debt Consolidation,162337,0
+2102,Atharv Reddy,33,716624,Salaried,629,933021,Business Expansion,181960,0
+2103,Ishaan Reddy,36,499873,Salaried,650,567081,Business Expansion,215514,0
+2104,Ananya Reddy,33,262386,Unemployed,602,307960,Business Expansion,21550,0
+2105,Diya Reddy,30,563940,Salaried,580,448087,Home Renovation,224486,0
+2106,Aadhya Reddy,26,270958,Self-Employed,582,426760,Home Renovation,161338,0
+2107,Aarohi Reddy,24,499225,Salaried,651,662244,Medical,170529,0
+2108,Anika Reddy,35,402361,Contract,662,436379,Debt Consolidation,162673,0
+2109,Myra Reddy,24,1345252,Salaried,650,1193971,Business Expansion,217809,1
+2110,Sara Reddy,34,543984,Contract,587,100000,Education,208333,0
+2111,Aisha Reddy,43,530968,Salaried,590,944106,Education,30466,0
+2112,Aarav Gupta,29,1112113,Self-Employed,636,1165493,Business Expansion,426433,0
+2113,Vivaan Gupta,34,444929,Salaried,628,375808,Education,9705,1
+2114,Aditya Gupta,28,713387,Salaried,590,295521,Home Renovation,80043,1
+2115,Vihaan Gupta,38,495139,Salaried,654,307817,Education,58191,1
+2116,Arjun Gupta,42,363561,Contract,714,611076,Car Purchase,54685,0
+2117,Sai Gupta,31,188711,Unemployed,618,100000,Home Renovation,61562,0
+2118,Atharv Gupta,32,367035,Self-Employed,598,248801,Car Purchase,117712,0
+2119,Ishaan Gupta,53,750311,Salaried,669,875428,Home Renovation,143943,0
+2120,Ananya Gupta,28,560540,Salaried,588,549708,Medical,78677,0
+2121,Diya Gupta,42,547196,Salaried,693,677879,Business Expansion,302343,0
+2122,Aadhya Gupta,31,654333,Salaried,631,775637,Education,70308,0
+2123,Aarohi Gupta,33,568837,Salaried,626,707622,Car Purchase,184441,0
+2124,Anika Gupta,28,435715,Salaried,670,363758,Car Purchase,0,1
+2125,Myra Gupta,32,736434,Self-Employed,653,1255796,Medical,189405,0
+2126,Sara Gupta,41,684791,Salaried,689,591320,Medical,109178,1
+2127,Aisha Gupta,31,424009,Contract,577,811223,Debt Consolidation,129993,0
+2128,Aarav Das,40,531357,Salaried,671,363172,Debt Consolidation,225766,0
+2129,Vivaan Das,29,697948,Salaried,572,1171645,Debt Consolidation,115161,0
+2130,Aditya Das,24,766579,Contract,606,887167,Car Purchase,188318,0
+2131,Vihaan Das,33,356708,Salaried,674,697565,Education,75436,0
+2132,Arjun Das,24,483770,Salaried,641,720998,Business Expansion,71521,0
+2133,Sai Das,50,472233,Salaried,736,731132,Home Renovation,170623,0
+2134,Atharv Das,34,369837,Self-Employed,656,180781,Car Purchase,191295,0
+2135,Ishaan Das,23,150000,Unemployed,609,180790,Car Purchase,15477,0
+2136,Ananya Das,49,470272,Contract,671,758190,Business Expansion,162373,0
+2137,Diya Das,35,613886,Contract,691,1235534,Business Expansion,90009,0
+2138,Aadhya Das,40,1445081,Self-Employed,742,1147155,Car Purchase,269354,1
+2139,Aarohi Das,39,495414,Self-Employed,764,225723,Home Renovation,116672,1
+2140,Anika Das,28,537808,Salaried,627,689106,Home Renovation,20547,0
+2141,Myra Das,38,912184,Self-Employed,569,100000,Car Purchase,104682,1
+2142,Sara Das,47,314821,Salaried,705,100000,Debt Consolidation,132234,1
+2143,Aisha Das,46,709244,Salaried,699,481568,Medical,205043,1
+2144,Aarav Mehta,21,616922,Salaried,594,1196338,Home Renovation,141320,0
+2145,Vivaan Mehta,29,757487,Self-Employed,591,1516069,Education,4595,0
+2146,Aditya Mehta,34,638555,Salaried,572,541986,Education,183984,0
+2147,Vihaan Mehta,39,562588,Salaried,614,100000,Education,13001,1
+2148,Arjun Mehta,44,384506,Contract,667,326404,Debt Consolidation,109898,0
+2149,Sai Mehta,25,673495,Salaried,706,484544,Business Expansion,246352,1
+2150,Atharv Mehta,42,610034,Salaried,587,300038,Medical,421327,0
+2151,Ishaan Mehta,43,375507,Salaried,685,610562,Medical,57224,0
+2152,Ananya Mehta,41,150000,Unemployed,615,208490,Home Renovation,36897,0
+2153,Diya Mehta,43,818689,Salaried,630,450183,Education,404979,0
+2154,Aadhya Mehta,37,366198,Salaried,648,237101,Debt Consolidation,102875,1
+2155,Aarohi Mehta,21,413800,Self-Employed,633,341973,Business Expansion,146971,0
+2156,Anika Mehta,23,421013,Self-Employed,658,708742,Business Expansion,12922,0
+2157,Myra Mehta,27,254311,Salaried,590,279484,Medical,40652,0
+2158,Sara Mehta,45,689835,Salaried,702,725893,Education,178501,1
+2159,Aisha Mehta,21,448387,Salaried,664,793321,Business Expansion,177970,0
+2160,Aarav Bose,32,477556,Contract,571,100000,Education,99283,1
+2161,Vivaan Bose,39,580935,Salaried,632,338004,Car Purchase,159479,0
+2162,Aditya Bose,27,499507,Salaried,603,1037575,Home Renovation,166163,0
+2163,Vihaan Bose,22,247765,Unemployed,637,164087,Debt Consolidation,59148,0
+2164,Arjun Bose,36,1187854,Salaried,683,867069,Debt Consolidation,503771,1
+2165,Sai Bose,32,702908,Salaried,623,581969,Debt Consolidation,270084,0
+2166,Atharv Bose,39,685807,Salaried,620,886953,Home Renovation,145701,0
+2167,Ishaan Bose,33,516361,Salaried,702,100000,Medical,254829,1
+2168,Ananya Bose,30,572203,Salaried,674,365986,Car Purchase,10053,1
+2169,Diya Bose,42,345250,Unemployed,644,268895,Car Purchase,170643,0
+2170,Aadhya Bose,26,421276,Salaried,641,478727,Medical,56663,1
+2171,Aarohi Bose,48,732853,Salaried,629,671501,Medical,162427,0
+2172,Anika Bose,48,625718,Salaried,687,264113,Debt Consolidation,92522,1
+2173,Myra Bose,34,420015,Self-Employed,688,289202,Medical,28484,1
+2174,Sara Bose,44,567843,Salaried,646,393123,Education,161154,1
+2175,Aisha Bose,40,755281,Salaried,625,444985,Business Expansion,88019,1
+2176,Aarav Nair,35,193904,Contract,615,235223,Education,45675,0
+2177,Vivaan Nair,31,493257,Contract,603,757705,Medical,115997,0
+2178,Aditya Nair,29,629001,Salaried,624,890345,Debt Consolidation,249814,0
+2179,Vihaan Nair,34,993394,Self-Employed,609,100000,Home Renovation,327277,1
+2180,Arjun Nair,28,611115,Salaried,580,697336,Medical,156088,0
+2181,Sai Nair,32,532149,Contract,535,887266,Debt Consolidation,233328,0
+2182,Atharv Nair,29,192657,Unemployed,601,123720,Education,38422,0
+2183,Ishaan Nair,47,866223,Salaried,652,1114139,Medical,125385,0
+2184,Ananya Nair,26,364385,Contract,535,115668,Medical,78811,0
+2185,Diya Nair,31,150000,Unemployed,577,269826,Car Purchase,28738,0
+2186,Aadhya Nair,30,619787,Salaried,608,100000,Education,152070,1
+2187,Aarohi Nair,29,460295,Salaried,630,753382,Car Purchase,153312,0
+2188,Anika Nair,28,211464,Self-Employed,597,136758,Car Purchase,85851,0
+2189,Myra Nair,37,509735,Salaried,685,100000,Medical,166326,1
+2190,Sara Nair,45,933343,Salaried,630,981606,Car Purchase,242111,0
+2191,Aisha Nair,41,695571,Contract,522,791231,Education,193274,0
+2192,Aarav Rao,40,810361,Salaried,715,1281203,Home Renovation,289982,0
+2193,Vivaan Rao,33,187456,Unemployed,642,102051,Business Expansion,45377,0
+2194,Aditya Rao,35,593627,Salaried,687,297993,Home Renovation,201248,1
+2195,Vihaan Rao,26,271515,Salaried,663,194887,Business Expansion,73894,1
+2196,Arjun Rao,37,718921,Salaried,674,1070170,Car Purchase,208404,0
+2197,Sai Rao,24,586511,Salaried,680,687277,Car Purchase,76299,1
+2198,Atharv Rao,34,632258,Self-Employed,614,1088958,Car Purchase,213674,0
+2199,Ishaan Rao,46,515118,Self-Employed,625,816190,Car Purchase,147630,0
+2200,Ananya Rao,33,352038,Salaried,687,616532,Business Expansion,39073,0
+2201,Diya Rao,43,272080,Contract,685,381047,Education,106595,0
+2202,Aadhya Rao,23,366880,Salaried,662,736473,Medical,71202,0
+2203,Aarohi Rao,21,899881,Salaried,568,610193,Medical,395396,0
+2204,Anika Rao,30,600913,Salaried,638,1481593,Business Expansion,160217,0
+2205,Myra Rao,41,445559,Salaried,714,691907,Business Expansion,67996,0
+2206,Sara Rao,25,504952,Salaried,604,646356,Business Expansion,115994,0
+2207,Aisha Rao,41,735845,Salaried,688,165932,Medical,64566,1
+2208,Aarav Mishra,37,150000,Unemployed,632,297611,Medical,18255,0
+2209,Vivaan Mishra,21,432195,Contract,561,561680,Debt Consolidation,4665,0
+2210,Aditya Mishra,36,779171,Self-Employed,643,568129,Home Renovation,211852,0
+2211,Vihaan Mishra,41,367128,Unemployed,580,443158,Debt Consolidation,42635,0
+2212,Arjun Mishra,42,407944,Salaried,650,432132,Home Renovation,101128,1
+2213,Sai Mishra,33,561762,Salaried,668,941819,Medical,282838,0
+2214,Atharv Mishra,41,348362,Salaried,616,364617,Home Renovation,213273,0
+2215,Ishaan Mishra,30,955761,Salaried,666,1520016,Medical,513441,0
+2216,Ananya Mishra,52,750963,Salaried,682,928052,Home Renovation,317314,0
+2217,Diya Mishra,31,1091980,Salaried,674,1105225,Education,610006,0
+2218,Aadhya Mishra,35,652846,Self-Employed,552,701763,Education,159633,0
+2219,Aarohi Mishra,35,954208,Salaried,643,1130919,Debt Consolidation,311751,0
+2220,Anika Mishra,49,1095408,Salaried,634,1903458,Education,122378,0
+2221,Myra Mishra,21,375829,Salaried,575,654394,Car Purchase,79143,0
+2222,Sara Mishra,44,652039,Salaried,678,836410,Education,246416,0
+2223,Aisha Mishra,38,365303,Salaried,765,345250,Education,101342,1
+2224,Aarav Chopra,30,1058268,Self-Employed,641,405315,Medical,178455,1
+2225,Vivaan Chopra,26,485404,Contract,542,494670,Home Renovation,102765,0
+2226,Aditya Chopra,30,150000,Unemployed,547,174212,Home Renovation,14793,0
+2227,Vihaan Chopra,34,150000,Contract,566,223554,Medical,26142,0
+2228,Arjun Chopra,30,837746,Contract,566,279603,Medical,285919,0
+2229,Sai Chopra,41,528817,Contract,600,244052,Education,155787,0
+2230,Atharv Chopra,39,457615,Salaried,721,100000,Car Purchase,183907,1
+2231,Ishaan Chopra,39,434005,Contract,644,127140,Home Renovation,151953,0
+2232,Ananya Chopra,31,362748,Salaried,627,312327,Medical,18808,1
+2233,Diya Chopra,31,537272,Salaried,665,801605,Car Purchase,78192,0
+2234,Aadhya Chopra,42,449385,Salaried,686,390805,Home Renovation,236254,0
+2235,Aarohi Chopra,21,487139,Salaried,587,757182,Home Renovation,43759,0
+2236,Anika Chopra,44,562501,Salaried,610,678458,Car Purchase,98787,0
+2237,Myra Chopra,27,587381,Salaried,652,811221,Education,203403,0
+2238,Sara Chopra,34,734120,Salaried,616,1347427,Business Expansion,131930,0
+2239,Aisha Chopra,35,308449,Salaried,647,384780,Debt Consolidation,0,0
+2240,Aarav Ghosh,37,536635,Salaried,698,789119,Business Expansion,116812,0
+2241,Vivaan Ghosh,33,262039,Salaried,593,274640,Medical,95384,0
+2242,Aditya Ghosh,37,597826,Salaried,566,426127,Medical,20224,1
+2243,Vihaan Ghosh,33,683491,Salaried,618,724774,Home Renovation,198416,0
+2244,Arjun Ghosh,34,306930,Contract,591,410627,Car Purchase,25006,0
+2245,Sai Ghosh,41,923534,Salaried,650,1792082,Debt Consolidation,251218,0
+2246,Atharv Ghosh,43,887510,Self-Employed,661,1363676,Education,112897,0
+2247,Ishaan Ghosh,33,298790,Contract,653,503790,Debt Consolidation,126556,0
+2248,Ananya Ghosh,25,541653,Salaried,625,962352,Car Purchase,109629,0
+2249,Diya Ghosh,35,416368,Salaried,656,385148,Car Purchase,91094,1
+2250,Aadhya Ghosh,41,366539,Contract,613,590604,Education,9986,0
+2251,Aarohi Ghosh,25,745420,Salaried,627,975039,Education,346630,0
+2252,Anika Ghosh,46,634143,Salaried,669,847525,Debt Consolidation,151410,1
+2253,Myra Ghosh,32,353252,Salaried,639,623259,Business Expansion,129625,0
+2254,Sara Ghosh,45,453888,Salaried,726,854915,Education,121040,0
+2255,Aisha Ghosh,26,559157,Salaried,569,285758,Car Purchase,18090,1
+2256,Aarav Sharma,39,487274,Salaried,662,555371,Education,138555,0
+2257,Vivaan Sharma,28,692109,Self-Employed,623,180164,Car Purchase,214267,1
+2258,Aditya Sharma,33,830432,Salaried,622,748979,Education,130272,1
+2259,Vihaan Sharma,40,452231,Salaried,679,314552,Car Purchase,32808,1
+2260,Arjun Sharma,43,1757097,Self-Employed,636,1726199,Education,103010,1
+2261,Sai Sharma,48,933472,Salaried,662,1111422,Car Purchase,226502,0
+2262,Atharv Sharma,29,592986,Contract,611,982496,Debt Consolidation,145643,0
+2263,Ishaan Sharma,61,349563,Salaried,793,304329,Home Renovation,26707,1
+2264,Ananya Sharma,44,557685,Self-Employed,678,493487,Education,146914,0
+2265,Diya Sharma,26,409196,Salaried,675,428053,Medical,150735,0
+2266,Aadhya Sharma,43,641445,Salaried,682,595148,Car Purchase,326422,0
+2267,Aarohi Sharma,29,819099,Self-Employed,653,1098379,Debt Consolidation,350056,0
+2268,Anika Sharma,33,426659,Self-Employed,672,951666,Car Purchase,34510,0
+2269,Myra Sharma,35,668647,Salaried,658,925781,Education,85210,0
+2270,Sara Sharma,38,452366,Self-Employed,661,100000,Medical,90085,1
+2271,Aisha Sharma,44,595969,Salaried,659,352021,Medical,25370,1
+2272,Aarav Verma,45,506243,Salaried,695,100000,Car Purchase,295043,1
+2273,Vivaan Verma,36,872744,Salaried,675,859724,Medical,151556,1
+2274,Aditya Verma,27,749797,Salaried,670,1136876,Debt Consolidation,292074,0
+2275,Vihaan Verma,21,330025,Contract,573,535940,Education,89911,0
+2276,Arjun Verma,37,578247,Salaried,652,556137,Home Renovation,210139,0
+2277,Sai Verma,28,623850,Salaried,637,384296,Education,174630,1
+2278,Atharv Verma,26,782672,Salaried,664,719006,Education,337004,0
+2279,Ishaan Verma,34,797391,Salaried,706,899684,Education,274798,1
+2280,Ananya Verma,31,840088,Self-Employed,671,1168657,Car Purchase,200474,0
+2281,Diya Verma,34,329296,Contract,620,263330,Home Renovation,53304,0
+2282,Aadhya Verma,32,667380,Salaried,582,100000,Medical,178759,1
+2283,Aarohi Verma,36,556162,Salaried,625,473465,Car Purchase,238760,0
+2284,Anika Verma,39,532539,Salaried,618,754770,Education,222147,0
+2285,Myra Verma,33,577972,Salaried,658,160206,Business Expansion,278786,1
+2286,Sara Verma,39,980740,Contract,636,1193110,Car Purchase,531110,0
+2287,Aisha Verma,22,404345,Salaried,602,798594,Education,52746,0
+2288,Aarav Iyer,35,223094,Unemployed,599,136925,Debt Consolidation,34021,0
+2289,Vivaan Iyer,25,150000,Unemployed,624,188358,Home Renovation,38863,0
+2290,Aditya Iyer,40,497390,Salaried,707,404588,Home Renovation,118680,1
+2291,Vihaan Iyer,34,708251,Salaried,651,1136098,Car Purchase,119283,0
+2292,Arjun Iyer,40,723840,Self-Employed,595,1690325,Medical,201769,0
+2293,Sai Iyer,23,492215,Salaried,651,505985,Business Expansion,150452,0
+2294,Atharv Iyer,41,525343,Salaried,637,268958,Debt Consolidation,235114,0
+2295,Ishaan Iyer,34,479654,Contract,576,412247,Home Renovation,195308,0
+2296,Ananya Iyer,36,361650,Self-Employed,627,100000,Education,90374,1
+2297,Diya Iyer,35,220693,Contract,574,334479,Car Purchase,28091,0
+2298,Aadhya Iyer,32,430783,Salaried,598,492980,Home Renovation,4097,0
+2299,Aarohi Iyer,21,534308,Self-Employed,536,283726,Home Renovation,262626,0
+2300,Anika Iyer,36,505703,Salaried,664,1088739,Business Expansion,170756,0
+2301,Myra Iyer,42,457828,Salaried,707,373446,Medical,104004,1
+2302,Sara Iyer,33,917038,Salaried,670,622435,Medical,46928,1
+2303,Aisha Iyer,21,437804,Contract,560,702651,Debt Consolidation,172345,0
+2304,Aarav Kumar,35,854810,Salaried,651,1687152,Car Purchase,299119,0
+2305,Vivaan Kumar,40,220702,Salaried,624,308166,Home Renovation,19228,0
+2306,Aditya Kumar,32,803528,Salaried,699,585850,Medical,82622,1
+2307,Vihaan Kumar,23,523289,Self-Employed,567,129518,Debt Consolidation,141969,1
+2308,Arjun Kumar,28,857054,Self-Employed,646,100000,Home Renovation,227801,1
+2309,Sai Kumar,36,388614,Self-Employed,606,377595,Debt Consolidation,128561,0
+2310,Atharv Kumar,43,765616,Salaried,683,1063023,Home Renovation,248566,0
+2311,Ishaan Kumar,32,524465,Self-Employed,661,1024408,Home Renovation,220888,0
+2312,Ananya Kumar,26,543861,Self-Employed,591,524734,Education,253799,0
+2313,Diya Kumar,35,2846719,Self-Employed,729,100000,Medical,1534767,1
+2314,Aadhya Kumar,38,349294,Contract,656,546424,Home Renovation,165578,0
+2315,Aarohi Kumar,29,970966,Self-Employed,674,761808,Home Renovation,280791,0
+2316,Anika Kumar,34,496845,Salaried,683,789298,Car Purchase,113974,0
+2317,Myra Kumar,30,281059,Self-Employed,610,369765,Car Purchase,63379,0
+2318,Sara Kumar,40,728908,Salaried,694,909392,Home Renovation,254544,0
+2319,Aisha Kumar,24,206640,Unemployed,576,313944,Home Renovation,23012,0
+2320,Aarav Patel,35,325995,Salaried,673,467239,Debt Consolidation,201492,0
+2321,Vivaan Patel,28,629377,Salaried,639,482133,Business Expansion,89080,0
+2322,Aditya Patel,24,722452,Salaried,683,100000,Education,290462,1
+2323,Vihaan Patel,52,383790,Salaried,715,271085,Home Renovation,170785,1
+2324,Arjun Patel,35,494081,Salaried,680,818135,Debt Consolidation,118911,0
+2325,Sai Patel,28,935459,Self-Employed,691,1332743,Car Purchase,231940,0
+2326,Atharv Patel,33,721520,Salaried,721,728173,Home Renovation,127083,1
+2327,Ishaan Patel,50,864485,Self-Employed,691,373759,Medical,69788,1
+2328,Ananya Patel,47,766034,Salaried,701,799974,Medical,245743,0
+2329,Diya Patel,37,226161,Salaried,646,305007,Home Renovation,106401,0
+2330,Aadhya Patel,31,739091,Contract,642,2144807,Business Expansion,233118,0
+2331,Aarohi Patel,30,730040,Salaried,620,1067816,Home Renovation,182958,0
+2332,Anika Patel,31,1358397,Self-Employed,602,1788435,Business Expansion,239276,0
+2333,Myra Patel,39,758322,Salaried,625,802383,Home Renovation,62515,1
+2334,Sara Patel,24,220773,Contract,559,100000,Debt Consolidation,88492,0
+2335,Aisha Patel,27,413101,Salaried,623,761934,Home Renovation,167292,0
+2336,Aarav Singh,30,261469,Salaried,555,144480,Car Purchase,23570,0
+2337,Vivaan Singh,42,745238,Salaried,660,406304,Education,233814,1
+2338,Aditya Singh,32,480155,Salaried,631,237394,Medical,72449,1
+2339,Vihaan Singh,35,631442,Salaried,594,1320595,Debt Consolidation,0,0
+2340,Arjun Singh,35,343173,Salaried,671,140206,Home Renovation,133370,1
+2341,Sai Singh,41,538945,Salaried,670,630670,Business Expansion,166895,0
+2342,Atharv Singh,35,325459,Salaried,656,710596,Debt Consolidation,44018,0
+2343,Ishaan Singh,37,883263,Contract,626,100000,Home Renovation,265643,1
+2344,Ananya Singh,43,1631244,Contract,607,1596213,Home Renovation,0,0
+2345,Diya Singh,32,751062,Salaried,627,1276839,Education,211568,0
+2346,Aadhya Singh,26,424619,Salaried,615,274827,Education,94401,1
+2347,Aarohi Singh,33,335075,Contract,648,258936,Education,63432,0
+2348,Anika Singh,35,441234,Salaried,706,785710,Education,292324,0
+2349,Myra Singh,38,429104,Self-Employed,615,466868,Car Purchase,141314,0
+2350,Sara Singh,31,467549,Self-Employed,688,504989,Medical,91783,0
+2351,Aisha Singh,34,359130,Self-Employed,602,130860,Business Expansion,54654,1
+2352,Aarav Reddy,42,730262,Salaried,630,100000,Medical,208901,1
+2353,Vivaan Reddy,29,1011821,Self-Employed,629,172511,Car Purchase,244937,1
+2354,Aditya Reddy,33,848844,Salaried,695,771348,Medical,275449,0
+2355,Vihaan Reddy,40,935331,Self-Employed,631,100000,Car Purchase,162646,1
+2356,Arjun Reddy,32,641804,Salaried,655,896065,Business Expansion,135088,0
+2357,Sai Reddy,48,560356,Salaried,657,803510,Car Purchase,163222,0
+2358,Atharv Reddy,41,527345,Contract,616,901038,Business Expansion,91985,0
+2359,Ishaan Reddy,26,797850,Salaried,631,738190,Car Purchase,200038,0
+2360,Ananya Reddy,48,478010,Unemployed,619,249800,Education,231601,0
+2361,Diya Reddy,43,579323,Salaried,729,406160,Car Purchase,13868,1
+2362,Aadhya Reddy,40,736622,Salaried,665,1247752,Debt Consolidation,111993,0
+2363,Aarohi Reddy,30,712632,Self-Employed,692,565037,Education,216102,0
+2364,Anika Reddy,35,448198,Salaried,650,946504,Medical,26801,0
+2365,Myra Reddy,27,1578019,Salaried,651,1933633,Debt Consolidation,122056,0
+2366,Sara Reddy,31,589573,Salaried,634,646084,Education,163096,0
+2367,Aisha Reddy,25,529781,Contract,581,253019,Home Renovation,149282,0
+2368,Aarav Gupta,37,299590,Unemployed,659,267709,Car Purchase,69499,0
+2369,Vivaan Gupta,33,416106,Salaried,627,100000,Debt Consolidation,60031,1
+2370,Aditya Gupta,34,412562,Salaried,639,110108,Education,73185,1
+2371,Vihaan Gupta,31,791473,Salaried,684,756339,Debt Consolidation,376017,1
+2372,Arjun Gupta,25,665983,Self-Employed,614,634670,Debt Consolidation,0,1
+2373,Sai Gupta,25,206699,Self-Employed,691,264823,Car Purchase,76917,0
+2374,Atharv Gupta,25,453710,Salaried,635,783717,Home Renovation,229402,0
+2375,Ishaan Gupta,32,781563,Salaried,714,670601,Home Renovation,163269,1
+2376,Ananya Gupta,35,1292822,Self-Employed,681,1589870,Home Renovation,330632,0
+2377,Diya Gupta,27,756671,Salaried,633,743173,Medical,215240,0
+2378,Aadhya Gupta,30,582450,Contract,600,463526,Business Expansion,184498,0
+2379,Aarohi Gupta,44,397540,Salaried,775,743981,Car Purchase,234579,0
+2380,Anika Gupta,37,796202,Self-Employed,616,100000,Home Renovation,253795,1
+2381,Myra Gupta,27,281366,Contract,597,403175,Debt Consolidation,94596,0
+2382,Sara Gupta,35,1477549,Self-Employed,631,1291023,Business Expansion,503986,0
+2383,Aisha Gupta,36,227457,Self-Employed,640,141102,Education,87118,0
+2384,Aarav Das,40,326379,Contract,586,244827,Car Purchase,115537,0
+2385,Vivaan Das,36,395251,Salaried,643,291494,Business Expansion,31813,1
+2386,Aditya Das,50,731208,Salaried,733,119354,Car Purchase,202390,1
+2387,Vihaan Das,35,1261656,Self-Employed,609,1633616,Education,87427,0
+2388,Arjun Das,48,788037,Salaried,718,862037,Medical,20614,1
+2389,Sai Das,27,150000,Unemployed,627,100000,Business Expansion,70635,0
+2390,Atharv Das,35,222982,Unemployed,604,160731,Education,79201,0
+2391,Ishaan Das,27,347628,Salaried,652,186209,Car Purchase,124721,1
+2392,Ananya Das,33,778734,Contract,637,604438,Education,81514,0
+2393,Diya Das,32,888209,Self-Employed,599,614134,Home Renovation,140969,1
+2394,Aadhya Das,36,590821,Salaried,618,700901,Medical,144325,0
+2395,Aarohi Das,24,1083326,Salaried,640,908078,Education,106924,1
+2396,Anika Das,27,435744,Contract,667,789706,Education,123301,0
+2397,Myra Das,34,558315,Salaried,614,606812,Home Renovation,131445,0
+2398,Sara Das,42,791473,Contract,639,1104334,Car Purchase,159550,0
+2399,Aisha Das,31,307777,Self-Employed,607,100000,Car Purchase,57560,1
+2400,Aarav Mehta,23,679163,Salaried,677,642066,Car Purchase,121795,0
+2401,Vivaan Mehta,31,625959,Salaried,602,465078,Car Purchase,175017,0
+2402,Aditya Mehta,31,655470,Salaried,669,352562,Car Purchase,209258,1
+2403,Vihaan Mehta,30,584781,Salaried,673,211744,Business Expansion,159262,1
+2404,Arjun Mehta,36,550541,Salaried,646,241360,Business Expansion,151712,1
+2405,Sai Mehta,43,865472,Salaried,690,806745,Car Purchase,238267,1
+2406,Atharv Mehta,24,421550,Salaried,593,706146,Medical,0,0
+2407,Ishaan Mehta,31,342036,Contract,596,100000,Business Expansion,58351,1
+2408,Ananya Mehta,27,242400,Contract,589,100000,Business Expansion,37361,1
+2409,Diya Mehta,32,438037,Salaried,632,680267,Car Purchase,198154,0
+2410,Aadhya Mehta,31,577874,Self-Employed,516,680894,Home Renovation,146244,0
+2411,Aarohi Mehta,40,291382,Salaried,664,144545,Medical,91185,1
+2412,Anika Mehta,33,847713,Salaried,713,1582152,Home Renovation,25219,0
+2413,Myra Mehta,48,1127265,Self-Employed,681,657087,Medical,87047,1
+2414,Sara Mehta,31,608565,Salaried,705,943271,Medical,127478,0
+2415,Aisha Mehta,43,964526,Salaried,659,630372,Business Expansion,167740,1
+2416,Aarav Bose,33,395687,Contract,576,585721,Education,160953,0
+2417,Vivaan Bose,37,526481,Salaried,700,671890,Medical,50976,1
+2418,Aditya Bose,25,484989,Salaried,592,100000,Medical,58818,1
+2419,Vihaan Bose,21,473928,Salaried,656,543641,Car Purchase,0,1
+2420,Arjun Bose,30,633849,Salaried,615,1261710,Car Purchase,30527,0
+2421,Sai Bose,37,825497,Salaried,637,216761,Home Renovation,298610,1
+2422,Atharv Bose,31,327796,Salaried,689,514884,Debt Consolidation,107302,0
+2423,Ishaan Bose,36,474101,Salaried,669,817277,Car Purchase,0,0
+2424,Ananya Bose,31,693365,Salaried,597,100000,Home Renovation,357081,1
+2425,Diya Bose,52,542435,Salaried,625,718234,Education,92349,0
+2426,Aadhya Bose,40,419372,Salaried,704,708894,Home Renovation,133227,0
+2427,Aarohi Bose,26,479073,Salaried,667,803383,Medical,115783,0
+2428,Anika Bose,37,256647,Contract,600,225354,Education,0,0
+2429,Myra Bose,35,349186,Contract,605,489612,Education,151660,0
+2430,Sara Bose,30,427142,Self-Employed,635,430256,Debt Consolidation,166878,0
+2431,Aisha Bose,44,572918,Salaried,691,617402,Car Purchase,169974,0
+2432,Aarav Nair,36,260680,Self-Employed,644,440454,Debt Consolidation,71130,0
+2433,Vivaan Nair,22,850489,Self-Employed,579,570490,Education,164734,0
+2434,Aditya Nair,44,349424,Salaried,640,396599,Car Purchase,67543,0
+2435,Vihaan Nair,37,710876,Salaried,687,233097,Medical,142816,1
+2436,Arjun Nair,44,212595,Unemployed,650,224889,Medical,141353,0
+2437,Sai Nair,30,337377,Salaried,616,100000,Car Purchase,75040,1
+2438,Atharv Nair,28,291763,Self-Employed,577,349383,Business Expansion,122714,0
+2439,Ishaan Nair,28,609847,Salaried,675,651783,Car Purchase,95325,1
+2440,Ananya Nair,51,253560,Contract,628,631423,Education,54256,0
+2441,Diya Nair,40,687630,Contract,617,840134,Debt Consolidation,217422,0
+2442,Aadhya Nair,50,536695,Salaried,724,1034429,Business Expansion,9735,0
+2443,Aarohi Nair,43,702334,Salaried,675,833550,Car Purchase,249010,0
+2444,Anika Nair,41,769614,Salaried,631,641941,Business Expansion,380397,0
+2445,Myra Nair,41,230170,Self-Employed,680,373389,Car Purchase,0,0
+2446,Sara Nair,35,256515,Salaried,575,117687,Home Renovation,37733,1
+2447,Aisha Nair,21,335130,Self-Employed,689,368857,Debt Consolidation,44607,0
+2448,Aarav Rao,30,454873,Salaried,608,348208,Education,118136,0
+2449,Vivaan Rao,26,551638,Self-Employed,706,620041,Car Purchase,236422,0
+2450,Aditya Rao,28,377083,Salaried,679,317727,Car Purchase,190062,0
+2451,Vihaan Rao,34,526242,Salaried,625,895372,Medical,145180,0
+2452,Arjun Rao,43,298453,Contract,568,402178,Debt Consolidation,29350,0
+2453,Sai Rao,47,196666,Contract,532,257298,Home Renovation,20190,0
+2454,Atharv Rao,37,322692,Salaried,650,289294,Medical,84006,1
+2455,Ishaan Rao,32,325365,Salaried,669,100000,Car Purchase,101751,1
+2456,Ananya Rao,34,698559,Salaried,651,603436,Home Renovation,187345,1
+2457,Diya Rao,24,598660,Salaried,692,100000,Debt Consolidation,199433,1
+2458,Aadhya Rao,34,407689,Salaried,635,279686,Medical,68400,1
+2459,Aarohi Rao,21,1108524,Salaried,622,637982,Car Purchase,308576,1
+2460,Anika Rao,43,786510,Unemployed,598,1065626,Medical,102459,0
+2461,Myra Rao,51,665796,Salaried,671,630298,Debt Consolidation,144612,1
+2462,Sara Rao,41,798664,Salaried,676,1250666,Home Renovation,155667,0
+2463,Aisha Rao,33,535397,Self-Employed,705,425595,Home Renovation,53113,1
+2464,Aarav Mishra,47,681958,Salaried,626,928896,Car Purchase,112578,0
+2465,Vivaan Mishra,41,531346,Salaried,634,687163,Medical,28253,0
+2466,Aditya Mishra,34,1589943,Self-Employed,663,1029139,Education,741983,0
+2467,Vihaan Mishra,44,454669,Contract,594,794027,Car Purchase,142611,0
+2468,Arjun Mishra,44,1076892,Salaried,727,1396366,Debt Consolidation,371489,0
+2469,Sai Mishra,30,366979,Self-Employed,522,611598,Home Renovation,63043,0
+2470,Atharv Mishra,26,660324,Salaried,618,431060,Business Expansion,236010,0
+2471,Ishaan Mishra,42,370614,Salaried,698,313940,Education,138687,0
+2472,Ananya Mishra,30,312153,Salaried,574,311836,Home Renovation,83636,0
+2473,Diya Mishra,32,504147,Salaried,625,242572,Business Expansion,134578,1
+2474,Aadhya Mishra,34,549866,Salaried,665,621824,Business Expansion,226076,0
+2475,Aarohi Mishra,38,828519,Salaried,630,643191,Debt Consolidation,61603,1
+2476,Anika Mishra,39,284309,Salaried,742,296126,Education,18925,1
+2477,Myra Mishra,32,548245,Salaried,588,416166,Debt Consolidation,258780,0
+2478,Sara Mishra,53,314984,Self-Employed,693,434323,Medical,88145,0
+2479,Aisha Mishra,21,248606,Contract,580,317529,Car Purchase,40587,0
+2480,Aarav Chopra,33,804446,Self-Employed,664,759720,Home Renovation,328344,0
+2481,Vivaan Chopra,50,390853,Self-Employed,628,243351,Car Purchase,75729,1
+2482,Aditya Chopra,30,328955,Salaried,671,283674,Home Renovation,50941,1
+2483,Vihaan Chopra,43,416531,Salaried,723,351625,Business Expansion,190286,1
+2484,Arjun Chopra,28,242481,Contract,578,162565,Debt Consolidation,86709,0
+2485,Sai Chopra,36,613815,Salaried,748,239158,Debt Consolidation,154266,1
+2486,Atharv Chopra,34,516307,Salaried,612,801632,Home Renovation,187618,0
+2487,Ishaan Chopra,35,573276,Salaried,708,104183,Business Expansion,271159,1
+2488,Ananya Chopra,39,1076456,Self-Employed,704,932246,Car Purchase,0,1
+2489,Diya Chopra,33,682611,Salaried,672,510353,Education,193108,1
+2490,Aadhya Chopra,33,263638,Contract,646,122718,Car Purchase,123354,0
+2491,Aarohi Chopra,42,418577,Salaried,688,100000,Home Renovation,107120,1
+2492,Anika Chopra,32,475544,Salaried,625,307080,Car Purchase,109666,1
+2493,Myra Chopra,42,980786,Salaried,727,1272700,Debt Consolidation,189007,1
+2494,Sara Chopra,28,622262,Salaried,692,933928,Car Purchase,229872,0
+2495,Aisha Chopra,33,671274,Salaried,639,391421,Medical,32082,1
+2496,Aarav Ghosh,39,793398,Self-Employed,676,300565,Business Expansion,80091,1
+2497,Vivaan Ghosh,46,315821,Self-Employed,655,210086,Car Purchase,57457,1
+2498,Aditya Ghosh,42,517062,Contract,650,528315,Education,216218,0
+2499,Vihaan Ghosh,34,230540,Unemployed,573,260900,Education,86104,0
+2500,Arjun Ghosh,31,677790,Salaried,633,148315,Medical,256448,1
+2501,Sai Ghosh,21,637328,Salaried,666,631410,Home Renovation,130521,0
+2502,Atharv Ghosh,44,566210,Salaried,721,241273,Home Renovation,39707,1
+2503,Ishaan Ghosh,38,458750,Salaried,687,527577,Debt Consolidation,86308,1
+2504,Ananya Ghosh,47,412869,Contract,625,173628,Medical,116352,1
+2505,Diya Ghosh,52,350861,Self-Employed,662,448681,Home Renovation,16062,0
+2506,Aadhya Ghosh,27,625975,Salaried,633,442119,Debt Consolidation,86799,1
+2507,Aarohi Ghosh,29,150000,Unemployed,632,152950,Debt Consolidation,61353,0
+2508,Anika Ghosh,45,443330,Salaried,630,748977,Home Renovation,143255,0
+2509,Myra Ghosh,25,379271,Self-Employed,579,653091,Medical,72200,0
+2510,Sara Ghosh,31,150000,Unemployed,631,162093,Medical,80726,0
+2511,Aisha Ghosh,31,651333,Salaried,629,1143764,Medical,211063,0
+2512,Aarav Sharma,36,287108,Contract,576,100000,Home Renovation,130107,0
+2513,Vivaan Sharma,34,501087,Salaried,674,694802,Car Purchase,109226,0
+2514,Aditya Sharma,21,462050,Salaried,644,679447,Home Renovation,157599,0
+2515,Vihaan Sharma,45,429989,Salaried,716,100000,Business Expansion,123170,1
+2516,Arjun Sharma,34,426435,Self-Employed,665,318283,Home Renovation,17217,1
+2517,Sai Sharma,36,1009338,Self-Employed,618,1687100,Business Expansion,413859,0
+2518,Atharv Sharma,21,780112,Salaried,615,707874,Car Purchase,190159,0
+2519,Ishaan Sharma,53,426169,Salaried,648,483257,Home Renovation,148545,0
+2520,Ananya Sharma,34,967703,Salaried,652,1503742,Education,321517,0
+2521,Diya Sharma,53,928242,Self-Employed,679,588013,Debt Consolidation,522972,0
+2522,Aadhya Sharma,42,635310,Salaried,690,1198143,Debt Consolidation,90154,0
+2523,Aarohi Sharma,32,792556,Salaried,653,178321,Debt Consolidation,285334,1
+2524,Anika Sharma,43,445805,Salaried,650,338605,Business Expansion,0,1
+2525,Myra Sharma,45,368105,Salaried,699,295763,Business Expansion,132669,1
+2526,Sara Sharma,30,436269,Salaried,673,540745,Business Expansion,0,0
+2527,Aisha Sharma,26,421654,Self-Employed,672,453417,Business Expansion,113741,0
+2528,Aarav Verma,29,535127,Salaried,687,592740,Business Expansion,215001,0
+2529,Vivaan Verma,35,564347,Salaried,680,1012905,Home Renovation,52231,0
+2530,Aditya Verma,22,428462,Salaried,664,637463,Debt Consolidation,145340,0
+2531,Vihaan Verma,50,412043,Salaried,705,544429,Home Renovation,0,1
+2532,Arjun Verma,44,400078,Salaried,592,783607,Business Expansion,80797,0
+2533,Sai Verma,54,616603,Salaried,587,440978,Business Expansion,95892,0
+2534,Atharv Verma,40,448024,Salaried,666,332506,Medical,137413,0
+2535,Ishaan Verma,46,410029,Salaried,670,649371,Car Purchase,50697,0
+2536,Ananya Verma,21,710878,Salaried,618,801036,Business Expansion,90703,0
+2537,Diya Verma,36,783250,Salaried,665,992287,Medical,0,0
+2538,Aadhya Verma,47,519396,Salaried,702,512639,Home Renovation,112591,1
+2539,Aarohi Verma,25,574371,Salaried,595,254402,Education,83759,1
+2540,Anika Verma,36,621491,Salaried,676,471177,Medical,228456,0
+2541,Myra Verma,30,760679,Contract,627,338731,Debt Consolidation,222034,0
+2542,Sara Verma,34,1209674,Self-Employed,571,472883,Medical,161046,1
+2543,Aisha Verma,22,613875,Self-Employed,608,193734,Business Expansion,130827,1
+2544,Aarav Iyer,31,251293,Unemployed,615,100000,Home Renovation,79304,0
+2545,Vivaan Iyer,35,271942,Contract,653,100000,Debt Consolidation,52184,1
+2546,Aditya Iyer,50,371013,Salaried,714,205654,Car Purchase,103969,1
+2547,Vihaan Iyer,22,411435,Salaried,680,664605,Debt Consolidation,72424,0
+2548,Arjun Iyer,37,1517620,Self-Employed,667,532632,Debt Consolidation,23238,1
+2549,Sai Iyer,28,702557,Salaried,634,516170,Business Expansion,0,1
+2550,Atharv Iyer,35,300757,Contract,620,146236,Home Renovation,25766,0
+2551,Ishaan Iyer,40,306129,Salaried,669,159124,Business Expansion,142682,1
+2552,Ananya Iyer,42,661400,Self-Employed,705,610959,Medical,201932,0
+2553,Diya Iyer,38,629441,Self-Employed,613,100000,Education,154100,1
+2554,Aadhya Iyer,39,457213,Salaried,591,762907,Medical,122006,0
+2555,Aarohi Iyer,25,623469,Salaried,630,100000,Car Purchase,93101,1
+2556,Anika Iyer,21,481273,Salaried,637,840237,Home Renovation,255262,0
+2557,Myra Iyer,34,379279,Self-Employed,619,466847,Car Purchase,91228,0
+2558,Sara Iyer,35,189052,Contract,605,296329,Car Purchase,89681,0
+2559,Aisha Iyer,36,368953,Salaried,632,198112,Business Expansion,5262,1
+2560,Aarav Kumar,28,861750,Salaried,640,472808,Car Purchase,356439,0
+2561,Vivaan Kumar,41,568796,Salaried,671,1184827,Home Renovation,189835,0
+2562,Aditya Kumar,38,168803,Unemployed,631,117837,Car Purchase,34404,0
+2563,Vihaan Kumar,37,662832,Self-Employed,693,509595,Education,105060,1
+2564,Arjun Kumar,36,230974,Self-Employed,690,310356,Debt Consolidation,23221,0
+2565,Sai Kumar,36,1165520,Salaried,662,1884171,Medical,373800,0
+2566,Atharv Kumar,36,660985,Salaried,644,1292861,Business Expansion,104851,0
+2567,Ishaan Kumar,41,171805,Unemployed,544,367318,Education,27581,0
+2568,Ananya Kumar,32,358574,Contract,618,376378,Debt Consolidation,57242,0
+2569,Diya Kumar,51,150000,Unemployed,671,216493,Debt Consolidation,12515,0
+2570,Aadhya Kumar,36,475017,Self-Employed,660,100000,Medical,88093,1
+2571,Aarohi Kumar,28,611158,Salaried,583,803549,Debt Consolidation,144608,0
+2572,Anika Kumar,27,409469,Salaried,707,269673,Medical,58237,1
+2573,Myra Kumar,29,698146,Salaried,600,1322435,Education,81037,0
+2574,Sara Kumar,26,643299,Salaried,612,727276,Medical,229197,0
+2575,Aisha Kumar,42,439687,Salaried,739,614445,Education,83422,1
+2576,Aarav Patel,21,1014459,Salaried,702,2074471,Car Purchase,0,0
+2577,Vivaan Patel,50,773582,Salaried,609,781458,Home Renovation,183780,0
+2578,Aditya Patel,34,431759,Salaried,639,304982,Medical,0,1
+2579,Vihaan Patel,40,882831,Self-Employed,660,1025276,Education,111508,0
+2580,Arjun Patel,41,435343,Salaried,669,170590,Business Expansion,181724,1
+2581,Sai Patel,42,677457,Salaried,675,294325,Education,276462,1
+2582,Atharv Patel,36,720784,Self-Employed,623,962927,Debt Consolidation,113505,0
+2583,Ishaan Patel,34,639228,Salaried,684,556143,Education,171262,1
+2584,Ananya Patel,46,602704,Self-Employed,590,867204,Business Expansion,55525,0
+2585,Diya Patel,21,753366,Self-Employed,630,681122,Medical,357330,0
+2586,Aadhya Patel,32,1031910,Salaried,609,1152576,Education,0,0
+2587,Aarohi Patel,40,511013,Salaried,709,760163,Education,168417,0
+2588,Anika Patel,33,521832,Self-Employed,651,856753,Business Expansion,74357,0
+2589,Myra Patel,30,689383,Salaried,660,603927,Home Renovation,9098,1
+2590,Sara Patel,55,996544,Self-Employed,711,856465,Car Purchase,387075,0
+2591,Aisha Patel,35,302051,Contract,658,100000,Business Expansion,88594,1
+2592,Aarav Singh,40,881611,Salaried,701,583324,Business Expansion,374178,1
+2593,Vivaan Singh,26,1140854,Self-Employed,592,100000,Car Purchase,318804,1
+2594,Aditya Singh,37,1254074,Self-Employed,670,1720593,Education,497714,0
+2595,Vihaan Singh,23,336699,Unemployed,587,438926,Business Expansion,60873,0
+2596,Arjun Singh,39,344930,Salaried,652,209458,Business Expansion,85634,1
+2597,Sai Singh,25,684489,Salaried,672,362995,Business Expansion,343344,0
+2598,Atharv Singh,33,837627,Salaried,645,190119,Education,243356,1
+2599,Ishaan Singh,40,637451,Self-Employed,610,424256,Home Renovation,102883,1
+2600,Ananya Singh,39,1386554,Salaried,658,2750475,Car Purchase,153944,0
+2601,Diya Singh,45,347519,Salaried,725,100000,Medical,146529,1
+2602,Aadhya Singh,32,350285,Salaried,642,135418,Medical,30421,1
+2603,Aarohi Singh,50,478822,Salaried,651,558284,Education,66936,0
+2604,Anika Singh,26,1067487,Salaried,682,1149799,Home Renovation,143026,1
+2605,Myra Singh,31,1123483,Contract,582,1798940,Car Purchase,111556,0
+2606,Sara Singh,31,282936,Salaried,682,568606,Education,77437,0
+2607,Aisha Singh,35,1013929,Self-Employed,614,1492371,Home Renovation,207979,0
+2608,Aarav Reddy,31,496717,Salaried,668,651782,Business Expansion,0,0
+2609,Vivaan Reddy,30,722928,Salaried,677,1240759,Debt Consolidation,195552,0
+2610,Aditya Reddy,36,150000,Unemployed,661,100000,Medical,21413,0
+2611,Vihaan Reddy,36,542262,Salaried,648,675679,Debt Consolidation,240596,0
+2612,Arjun Reddy,39,731007,Salaried,653,160230,Medical,191649,1
+2613,Sai Reddy,40,402877,Salaried,617,340452,Business Expansion,102075,0
+2614,Atharv Reddy,25,1197658,Salaried,637,880732,Business Expansion,280404,0
+2615,Ishaan Reddy,25,466509,Salaried,608,966477,Car Purchase,109431,0
+2616,Ananya Reddy,35,457968,Salaried,646,527136,Home Renovation,123440,0
+2617,Diya Reddy,21,200523,Salaried,699,173208,Debt Consolidation,38378,0
+2618,Aadhya Reddy,40,450677,Salaried,697,656046,Debt Consolidation,111142,0
+2619,Aarohi Reddy,34,705450,Salaried,645,1186068,Debt Consolidation,164711,0
+2620,Anika Reddy,29,967889,Salaried,596,446418,Home Renovation,380993,0
+2621,Myra Reddy,38,373514,Salaried,701,598490,Debt Consolidation,134385,0
+2622,Sara Reddy,35,388002,Salaried,602,422384,Debt Consolidation,70211,0
+2623,Aisha Reddy,29,416499,Salaried,588,396402,Debt Consolidation,73955,0
+2624,Aarav Gupta,32,338395,Unemployed,653,494098,Medical,124742,0
+2625,Vivaan Gupta,40,661518,Salaried,663,625898,Car Purchase,223749,0
+2626,Aditya Gupta,44,794764,Salaried,700,896599,Medical,133402,1
+2627,Vihaan Gupta,37,344320,Salaried,671,391049,Home Renovation,83616,0
+2628,Arjun Gupta,35,353954,Contract,648,359364,Car Purchase,115990,0
+2629,Sai Gupta,41,879870,Self-Employed,663,547386,Business Expansion,157007,1
+2630,Atharv Gupta,26,495356,Contract,546,501742,Car Purchase,150419,0
+2631,Ishaan Gupta,22,659833,Salaried,643,900961,Debt Consolidation,75796,0
+2632,Ananya Gupta,43,654623,Salaried,668,300071,Debt Consolidation,171535,1
+2633,Diya Gupta,23,1252271,Self-Employed,640,1822911,Debt Consolidation,75493,0
+2634,Aadhya Gupta,27,589683,Salaried,661,450629,Home Renovation,73033,1
+2635,Aarohi Gupta,21,468634,Salaried,729,306329,Debt Consolidation,177610,1
+2636,Anika Gupta,44,394275,Contract,558,1027957,Business Expansion,40699,0
+2637,Myra Gupta,36,715111,Salaried,675,573865,Debt Consolidation,183707,1
+2638,Sara Gupta,33,348138,Salaried,683,254187,Business Expansion,106310,1
+2639,Aisha Gupta,39,529618,Salaried,631,1018538,Debt Consolidation,67978,0
+2640,Aarav Das,36,441231,Salaried,586,470955,Car Purchase,104207,0
+2641,Vivaan Das,32,482468,Contract,654,659101,Debt Consolidation,57333,0
+2642,Aditya Das,36,293858,Salaried,722,275723,Medical,98066,1
+2643,Vihaan Das,42,390306,Self-Employed,636,401812,Business Expansion,106084,0
+2644,Arjun Das,31,414335,Salaried,659,366362,Debt Consolidation,203104,0
+2645,Sai Das,21,644703,Unemployed,558,513759,Medical,194139,0
+2646,Atharv Das,53,359983,Contract,691,542831,Business Expansion,216547,0
+2647,Ishaan Das,34,1029816,Contract,549,2189884,Debt Consolidation,220571,0
+2648,Ananya Das,36,450113,Salaried,661,1131290,Education,197402,0
+2649,Diya Das,21,977541,Self-Employed,591,834974,Medical,838615,0
+2650,Aadhya Das,39,669879,Salaried,705,336798,Home Renovation,305523,1
+2651,Aarohi Das,35,642938,Salaried,660,967885,Debt Consolidation,254437,0
+2652,Anika Das,28,352656,Salaried,643,300372,Business Expansion,53387,1
+2653,Myra Das,36,293758,Salaried,613,214064,Medical,0,1
+2654,Sara Das,33,439162,Salaried,646,100000,Debt Consolidation,109632,1
+2655,Aisha Das,38,1089061,Self-Employed,710,1462222,Car Purchase,322129,0
+2656,Aarav Mehta,40,735819,Salaried,616,1206487,Education,168142,0
+2657,Vivaan Mehta,42,637285,Salaried,672,1002597,Medical,276899,0
+2658,Aditya Mehta,44,835386,Salaried,699,1357305,Car Purchase,372120,0
+2659,Vihaan Mehta,47,792292,Self-Employed,675,701845,Home Renovation,32963,1
+2660,Arjun Mehta,32,507232,Self-Employed,672,235158,Medical,34693,1
+2661,Sai Mehta,32,898484,Salaried,629,100000,Debt Consolidation,401000,1
+2662,Atharv Mehta,46,562720,Salaried,761,258604,Education,165179,1
+2663,Ishaan Mehta,37,337215,Salaried,671,154445,Education,55902,1
+2664,Ananya Mehta,29,499509,Salaried,641,307963,Home Renovation,167343,1
+2665,Diya Mehta,34,588491,Salaried,621,509860,Medical,132469,1
+2666,Aadhya Mehta,21,481407,Salaried,683,393974,Medical,213739,0
+2667,Aarohi Mehta,48,418519,Salaried,672,562121,Debt Consolidation,198227,0
+2668,Anika Mehta,36,621164,Salaried,596,100000,Education,135694,1
+2669,Myra Mehta,39,818580,Salaried,617,1587981,Home Renovation,260665,0
+2670,Sara Mehta,36,740828,Salaried,747,1442589,Car Purchase,108896,0
+2671,Aisha Mehta,32,1207316,Self-Employed,664,1082927,Medical,551502,0
+2672,Aarav Bose,21,536213,Salaried,647,466887,Education,200943,0
+2673,Vivaan Bose,35,600684,Salaried,655,965713,Education,118350,0
+2674,Aditya Bose,30,446919,Salaried,675,639699,Medical,88778,0
+2675,Vihaan Bose,34,597921,Salaried,638,328512,Debt Consolidation,3666,1
+2676,Arjun Bose,39,411665,Salaried,633,782872,Home Renovation,101835,0
+2677,Sai Bose,43,767630,Salaried,629,271982,Business Expansion,257822,1
+2678,Atharv Bose,44,217786,Unemployed,553,100000,Medical,31390,0
+2679,Ishaan Bose,40,468898,Contract,693,360804,Medical,108491,0
+2680,Ananya Bose,43,848175,Self-Employed,655,885489,Car Purchase,314536,0
+2681,Diya Bose,41,880917,Salaried,685,712554,Education,209686,1
+2682,Aadhya Bose,25,255438,Self-Employed,554,100000,Education,95157,0
+2683,Aarohi Bose,42,514881,Salaried,675,545501,Debt Consolidation,38760,1
+2684,Anika Bose,24,753118,Salaried,600,1345489,Home Renovation,40833,0
+2685,Myra Bose,31,444484,Salaried,627,712551,Debt Consolidation,146885,0
+2686,Sara Bose,31,487853,Salaried,649,526302,Education,203004,0
+2687,Aisha Bose,39,152573,Unemployed,614,163222,Business Expansion,0,0
+2688,Aarav Nair,41,431425,Self-Employed,642,172581,Home Renovation,0,1
+2689,Vivaan Nair,27,883333,Salaried,611,1043014,Car Purchase,71365,0
+2690,Aditya Nair,38,457195,Salaried,612,544107,Home Renovation,200741,0
+2691,Vihaan Nair,36,327471,Contract,578,516919,Home Renovation,13376,0
+2692,Arjun Nair,21,556526,Salaried,590,316586,Medical,223132,1
+2693,Sai Nair,27,201775,Contract,558,162842,Car Purchase,78460,0
+2694,Atharv Nair,34,742383,Salaried,552,1068662,Education,415238,0
+2695,Ishaan Nair,33,479113,Contract,573,243137,Car Purchase,178052,0
+2696,Ananya Nair,24,478533,Salaried,721,674147,Medical,144457,0
+2697,Diya Nair,38,520925,Self-Employed,716,200025,Home Renovation,169781,1
+2698,Aadhya Nair,34,452393,Self-Employed,613,162963,Business Expansion,10894,1
+2699,Aarohi Nair,42,537854,Salaried,707,635064,Debt Consolidation,118587,0
+2700,Anika Nair,24,485063,Salaried,576,664160,Medical,0,0
+2701,Myra Nair,35,497764,Salaried,703,865164,Car Purchase,85739,0
+2702,Sara Nair,28,1184349,Self-Employed,667,261441,Debt Consolidation,198750,1
+2703,Aisha Nair,37,649093,Salaried,775,100000,Car Purchase,321336,1
+2704,Aarav Rao,28,686582,Self-Employed,651,797520,Debt Consolidation,60465,0
+2705,Vivaan Rao,25,739344,Contract,611,443079,Home Renovation,0,0
+2706,Aditya Rao,43,570707,Self-Employed,618,342068,Home Renovation,72599,1
+2707,Vihaan Rao,41,257503,Contract,609,238120,Car Purchase,106172,0
+2708,Arjun Rao,42,441987,Contract,677,451119,Debt Consolidation,134804,0
+2709,Sai Rao,33,873284,Salaried,646,987026,Home Renovation,289094,0
+2710,Atharv Rao,26,602416,Self-Employed,643,759488,Debt Consolidation,258785,0
+2711,Ishaan Rao,30,221660,Unemployed,533,100000,Education,32230,0
+2712,Ananya Rao,44,506766,Salaried,645,355253,Home Renovation,88838,1
+2713,Diya Rao,52,958551,Salaried,633,1013520,Education,338396,0
+2714,Aadhya Rao,26,627648,Salaried,679,723142,Debt Consolidation,72351,1
+2715,Aarohi Rao,33,370378,Salaried,592,665068,Debt Consolidation,130129,0
+2716,Anika Rao,38,611860,Salaried,642,100000,Home Renovation,235098,1
+2717,Myra Rao,32,481770,Salaried,726,643228,Home Renovation,204242,1
+2718,Sara Rao,31,942347,Salaried,692,881060,Car Purchase,134090,1
+2719,Aisha Rao,35,296196,Contract,658,426286,Debt Consolidation,91628,0
+2720,Aarav Mishra,30,652512,Salaried,611,973117,Medical,328003,0
+2721,Vivaan Mishra,24,308995,Salaried,587,618538,Debt Consolidation,122765,0
+2722,Aditya Mishra,24,252132,Salaried,679,319272,Debt Consolidation,7193,1
+2723,Vihaan Mishra,38,345047,Contract,585,147479,Debt Consolidation,53872,0
+2724,Arjun Mishra,39,557870,Salaried,674,853619,Home Renovation,78955,0
+2725,Sai Mishra,24,523496,Salaried,682,1171198,Home Renovation,140026,0
+2726,Atharv Mishra,33,150000,Contract,573,100000,Education,0,0
+2727,Ishaan Mishra,45,910815,Self-Employed,604,647675,Medical,111791,0
+2728,Ananya Mishra,37,529128,Salaried,634,400980,Business Expansion,56559,1
+2729,Diya Mishra,27,413550,Contract,584,899457,Education,115580,0
+2730,Aadhya Mishra,45,1092293,Self-Employed,632,431986,Business Expansion,227604,1
+2731,Aarohi Mishra,30,526472,Salaried,702,769695,Medical,82131,1
+2732,Anika Mishra,32,564481,Salaried,630,700467,Debt Consolidation,173759,0
+2733,Myra Mishra,37,503673,Salaried,701,181470,Home Renovation,119710,1
+2734,Sara Mishra,35,547366,Salaried,679,108687,Medical,127245,1
+2735,Aisha Mishra,39,456156,Contract,578,492709,Medical,99851,0
+2736,Aarav Chopra,44,246228,Salaried,704,269985,Home Renovation,81250,1
+2737,Vivaan Chopra,37,597887,Salaried,619,518679,Medical,0,1
+2738,Aditya Chopra,33,734946,Salaried,689,1045323,Business Expansion,245745,0
+2739,Vihaan Chopra,39,672857,Salaried,690,410613,Debt Consolidation,0,1
+2740,Arjun Chopra,37,373604,Self-Employed,632,184048,Business Expansion,112594,0
+2741,Sai Chopra,38,851989,Salaried,621,239478,Education,167796,1
+2742,Atharv Chopra,29,1037928,Contract,620,806385,Debt Consolidation,18494,0
+2743,Ishaan Chopra,33,908307,Self-Employed,676,1316695,Home Renovation,222169,0
+2744,Ananya Chopra,26,395609,Contract,605,861324,Medical,83939,0
+2745,Diya Chopra,28,1125900,Salaried,588,1152978,Education,179335,0
+2746,Aadhya Chopra,40,439983,Salaried,661,290712,Car Purchase,111664,1
+2747,Aarohi Chopra,52,497924,Salaried,739,337250,Education,239525,1
+2748,Anika Chopra,48,519111,Salaried,680,794933,Medical,115250,0
+2749,Myra Chopra,33,246007,Self-Employed,653,118816,Business Expansion,62591,1
+2750,Sara Chopra,24,473305,Salaried,643,709917,Car Purchase,88906,0
+2751,Aisha Chopra,47,532301,Salaried,686,520442,Debt Consolidation,119442,1
+2752,Aarav Ghosh,34,574255,Salaried,618,1149053,Home Renovation,184621,0
+2753,Vivaan Ghosh,41,956411,Self-Employed,751,1029288,Medical,94747,1
+2754,Aditya Ghosh,28,542439,Salaried,595,804823,Medical,194508,0
+2755,Vihaan Ghosh,21,691901,Self-Employed,650,100000,Business Expansion,79894,1
+2756,Arjun Ghosh,27,775101,Self-Employed,641,542855,Car Purchase,162481,0
+2757,Sai Ghosh,31,588155,Salaried,650,420852,Car Purchase,16596,1
+2758,Atharv Ghosh,33,269840,Salaried,601,201178,Business Expansion,62793,1
+2759,Ishaan Ghosh,37,526966,Self-Employed,647,263631,Medical,141236,1
+2760,Ananya Ghosh,33,645661,Salaried,613,433164,Education,166047,1
+2761,Diya Ghosh,33,889410,Salaried,656,1061476,Business Expansion,0,1
+2762,Aadhya Ghosh,35,173946,Unemployed,669,188781,Home Renovation,0,0
+2763,Aarohi Ghosh,34,669627,Salaried,632,100000,Education,159875,1
+2764,Anika Ghosh,38,409287,Salaried,728,1068841,Home Renovation,153034,0
+2765,Myra Ghosh,37,462274,Contract,630,612189,Education,97417,0
+2766,Sara Ghosh,42,446042,Salaried,718,100000,Debt Consolidation,56266,1
+2767,Aisha Ghosh,36,642901,Self-Employed,637,500728,Education,123829,0
+2768,Aarav Sharma,31,568544,Salaried,652,661420,Home Renovation,230402,0
+2769,Vivaan Sharma,31,580008,Salaried,600,100000,Debt Consolidation,142697,1
+2770,Aditya Sharma,39,819349,Salaried,725,760674,Business Expansion,68870,1
+2771,Vihaan Sharma,42,426464,Salaried,673,182338,Medical,139665,1
+2772,Arjun Sharma,27,592469,Salaried,627,100000,Medical,192452,1
+2773,Sai Sharma,39,965835,Self-Employed,632,1807263,Business Expansion,210080,0
+2774,Atharv Sharma,35,689892,Salaried,691,963043,Education,40580,0
+2775,Ishaan Sharma,31,775726,Salaried,711,912417,Medical,315160,0
+2776,Ananya Sharma,34,438968,Salaried,676,514566,Education,66984,1
+2777,Diya Sharma,50,150512,Contract,545,387834,Car Purchase,29477,0
+2778,Aadhya Sharma,37,431230,Salaried,635,167364,Business Expansion,0,1
+2779,Aarohi Sharma,24,459255,Self-Employed,616,607555,Debt Consolidation,252603,0
+2780,Anika Sharma,26,821525,Salaried,714,100000,Business Expansion,88772,1
+2781,Myra Sharma,32,583857,Salaried,607,234558,Medical,239603,1
+2782,Sara Sharma,21,354696,Salaried,644,100000,Education,25011,1
+2783,Aisha Sharma,21,714809,Self-Employed,593,629554,Car Purchase,259281,0
+2784,Aarav Verma,39,369913,Salaried,717,442861,Home Renovation,236610,0
+2785,Vivaan Verma,23,507552,Salaried,607,314079,Debt Consolidation,73768,1
+2786,Aditya Verma,32,1397520,Self-Employed,650,1682664,Car Purchase,478667,0
+2787,Vihaan Verma,34,1070252,Self-Employed,599,1022368,Medical,266567,0
+2788,Arjun Verma,21,341857,Contract,524,561347,Business Expansion,11255,0
+2789,Sai Verma,22,651271,Contract,482,1445877,Debt Consolidation,193394,0
+2790,Atharv Verma,33,544103,Salaried,655,614623,Car Purchase,131740,0
+2791,Ishaan Verma,28,482311,Unemployed,644,416215,Car Purchase,149954,0
+2792,Ananya Verma,30,412398,Salaried,651,453646,Car Purchase,258202,0
+2793,Diya Verma,40,556095,Salaried,707,638394,Medical,4307,1
+2794,Aadhya Verma,39,244028,Self-Employed,619,373170,Debt Consolidation,100607,0
+2795,Aarohi Verma,44,310763,Salaried,759,247342,Business Expansion,110680,1
+2796,Anika Verma,33,586055,Salaried,631,754444,Car Purchase,145714,0
+2797,Myra Verma,25,465400,Salaried,643,270862,Medical,118122,1
+2798,Sara Verma,28,585468,Salaried,690,100000,Home Renovation,146534,1
+2799,Aisha Verma,35,333891,Salaried,682,183997,Home Renovation,123298,1
+2800,Aarav Iyer,28,314156,Salaried,622,232594,Education,115107,0
+2801,Vivaan Iyer,25,707863,Self-Employed,684,806905,Business Expansion,243124,0
+2802,Aditya Iyer,35,393099,Self-Employed,701,210314,Medical,64715,1
+2803,Vihaan Iyer,35,567185,Salaried,688,268000,Debt Consolidation,67393,1
+2804,Arjun Iyer,41,573787,Salaried,628,100000,Medical,191587,1
+2805,Sai Iyer,27,312825,Contract,534,100000,Home Renovation,51020,0
+2806,Atharv Iyer,39,379610,Salaried,631,149796,Home Renovation,168060,0
+2807,Ishaan Iyer,42,617114,Self-Employed,751,502725,Medical,128811,1
+2808,Ananya Iyer,42,212856,Unemployed,616,297492,Home Renovation,39748,0
+2809,Diya Iyer,23,553638,Salaried,605,743741,Home Renovation,151144,0
+2810,Aadhya Iyer,34,635477,Self-Employed,643,911102,Car Purchase,140279,0
+2811,Aarohi Iyer,21,541431,Salaried,685,426741,Car Purchase,218199,0
+2812,Anika Iyer,30,150000,Unemployed,598,153417,Car Purchase,44944,0
+2813,Myra Iyer,35,947160,Self-Employed,601,1367991,Home Renovation,231210,0
+2814,Sara Iyer,46,716001,Salaried,654,803125,Home Renovation,225014,0
+2815,Aisha Iyer,28,1572962,Self-Employed,572,346578,Education,181969,1
+2816,Aarav Kumar,30,796536,Salaried,633,670488,Education,197346,1
+2817,Vivaan Kumar,39,305637,Salaried,683,372227,Business Expansion,39632,1
+2818,Aditya Kumar,40,558345,Salaried,683,787414,Business Expansion,160139,0
+2819,Vihaan Kumar,30,252635,Unemployed,535,278583,Debt Consolidation,20075,0
+2820,Arjun Kumar,39,367558,Salaried,620,175586,Debt Consolidation,111182,1
+2821,Sai Kumar,25,788144,Self-Employed,659,1009094,Home Renovation,47455,0
+2822,Atharv Kumar,35,765929,Salaried,667,1303128,Car Purchase,201808,0
+2823,Ishaan Kumar,47,447285,Self-Employed,604,232473,Medical,167287,0
+2824,Ananya Kumar,44,522483,Salaried,704,401536,Debt Consolidation,235849,0
+2825,Diya Kumar,31,392123,Contract,514,695799,Education,89446,0
+2826,Aadhya Kumar,35,504758,Contract,590,631417,Medical,98486,0
+2827,Aarohi Kumar,41,431778,Salaried,621,442427,Business Expansion,181939,0
+2828,Anika Kumar,23,473744,Salaried,639,127974,Debt Consolidation,180367,1
+2829,Myra Kumar,44,434399,Contract,615,100000,Education,23837,1
+2830,Sara Kumar,24,335031,Contract,579,646045,Home Renovation,22941,0
+2831,Aisha Kumar,21,408171,Salaried,604,621469,Business Expansion,126413,0
+2832,Aarav Patel,24,559822,Contract,541,100000,Home Renovation,143131,0
+2833,Vivaan Patel,33,755468,Salaried,655,100000,Education,159051,1
+2834,Aditya Patel,30,368059,Salaried,651,809238,Education,145782,0
+2835,Vihaan Patel,30,338447,Salaried,632,891042,Car Purchase,96495,0
+2836,Arjun Patel,30,657518,Salaried,612,662206,Business Expansion,2493,1
+2837,Sai Patel,31,150000,Contract,596,195566,Debt Consolidation,79797,0
+2838,Atharv Patel,43,470484,Self-Employed,629,164116,Education,115610,1
+2839,Ishaan Patel,43,536342,Salaried,648,299830,Business Expansion,138311,1
+2840,Ananya Patel,28,598583,Salaried,598,315240,Car Purchase,47956,1
+2841,Diya Patel,30,500821,Contract,618,142799,Business Expansion,230856,0
+2842,Aadhya Patel,56,600582,Salaried,610,866470,Home Renovation,113895,0
+2843,Aarohi Patel,40,797386,Salaried,708,1168026,Education,281469,0
+2844,Anika Patel,28,472027,Salaried,627,722654,Business Expansion,123991,0
+2845,Myra Patel,33,478607,Salaried,611,608081,Business Expansion,0,0
+2846,Sara Patel,26,690095,Salaried,666,1265895,Car Purchase,241363,0
+2847,Aisha Patel,38,279230,Contract,659,297463,Business Expansion,156436,0
+2848,Aarav Singh,42,522446,Salaried,710,100000,Education,218984,1
+2849,Vivaan Singh,41,370299,Salaried,662,102538,Medical,159902,1
+2850,Aditya Singh,22,279734,Contract,619,172039,Education,29692,1
+2851,Vihaan Singh,25,2041373,Self-Employed,642,2221459,Business Expansion,672236,0
+2852,Arjun Singh,31,571324,Self-Employed,618,437358,Education,100750,0
+2853,Sai Singh,34,298673,Contract,636,260868,Education,102347,0
+2854,Atharv Singh,42,672235,Salaried,625,1762361,Education,95359,0
+2855,Ishaan Singh,34,479285,Salaried,741,100000,Debt Consolidation,8751,1
+2856,Ananya Singh,33,450697,Salaried,721,650711,Home Renovation,139878,0
+2857,Diya Singh,28,465384,Salaried,656,572815,Medical,69044,0
+2858,Aadhya Singh,33,793707,Salaried,655,674993,Home Renovation,249780,1
+2859,Aarohi Singh,40,487171,Self-Employed,667,106188,Debt Consolidation,112723,1
+2860,Anika Singh,34,935467,Salaried,592,442814,Medical,140602,1
+2861,Myra Singh,21,751807,Self-Employed,623,591437,Home Renovation,96154,0
+2862,Sara Singh,49,1062223,Salaried,669,1644425,Car Purchase,316726,0
+2863,Aisha Singh,21,606836,Salaried,668,781534,Debt Consolidation,275260,0
+2864,Aarav Reddy,32,468981,Self-Employed,579,183381,Business Expansion,69587,1
+2865,Vivaan Reddy,39,399832,Salaried,720,253203,Medical,71975,1
+2866,Aditya Reddy,31,612343,Self-Employed,576,792849,Business Expansion,127260,0
+2867,Vihaan Reddy,42,331481,Salaried,703,183355,Home Renovation,38218,1
+2868,Arjun Reddy,35,699067,Salaried,647,251147,Home Renovation,276499,1
+2869,Sai Reddy,44,419785,Salaried,701,764856,Home Renovation,218401,0
+2870,Atharv Reddy,28,456322,Salaried,561,1217921,Debt Consolidation,182072,0
+2871,Ishaan Reddy,31,427422,Salaried,661,497265,Car Purchase,30016,1
+2872,Ananya Reddy,28,577781,Salaried,682,231951,Home Renovation,201952,1
+2873,Diya Reddy,44,349705,Self-Employed,732,634594,Business Expansion,62073,0
+2874,Aadhya Reddy,43,493700,Salaried,675,657332,Education,138877,0
+2875,Aarohi Reddy,42,286832,Self-Employed,706,100167,Car Purchase,68049,1
+2876,Anika Reddy,48,568362,Salaried,609,865268,Business Expansion,21582,0
+2877,Myra Reddy,40,600406,Salaried,725,616670,Education,121474,1
+2878,Sara Reddy,37,1131681,Self-Employed,614,503911,Education,422167,0
+2879,Aisha Reddy,46,252115,Unemployed,659,259308,Debt Consolidation,87791,0
+2880,Aarav Gupta,35,474842,Salaried,687,645585,Business Expansion,89814,0
+2881,Vivaan Gupta,39,238909,Self-Employed,671,310033,Medical,21017,0
+2882,Aditya Gupta,32,348178,Salaried,572,182219,Home Renovation,154973,0
+2883,Vihaan Gupta,46,366941,Contract,578,474663,Medical,103864,0
+2884,Arjun Gupta,34,511236,Self-Employed,642,329770,Business Expansion,216457,0
+2885,Sai Gupta,34,760744,Salaried,714,870926,Home Renovation,293126,0
+2886,Atharv Gupta,27,593749,Salaried,560,771791,Medical,37799,0
+2887,Ishaan Gupta,26,386116,Salaried,621,579296,Education,40269,0
+2888,Ananya Gupta,36,1227633,Self-Employed,597,1655141,Car Purchase,495918,0
+2889,Diya Gupta,42,930552,Self-Employed,602,1347156,Car Purchase,539252,0
+2890,Aadhya Gupta,31,625376,Contract,590,100000,Education,261906,0
+2891,Aarohi Gupta,29,263727,Salaried,706,299550,Medical,82177,1
+2892,Anika Gupta,40,587669,Salaried,639,580514,Education,223159,0
+2893,Myra Gupta,32,309140,Salaried,608,155227,Home Renovation,160598,0
+2894,Sara Gupta,21,599885,Salaried,587,789323,Home Renovation,78771,0
+2895,Aisha Gupta,30,906675,Contract,613,1153375,Car Purchase,98007,0
+2896,Aarav Das,41,150000,Unemployed,603,100000,Medical,1754,0
+2897,Vivaan Das,37,839341,Self-Employed,702,671944,Car Purchase,225002,1
+2898,Aditya Das,36,385339,Contract,647,392189,Medical,141242,0
+2899,Vihaan Das,35,412603,Contract,591,217874,Home Renovation,146516,0
+2900,Arjun Das,30,390863,Salaried,603,567469,Car Purchase,41057,0
+2901,Sai Das,44,512343,Salaried,665,100000,Car Purchase,43189,1
+2902,Atharv Das,34,352623,Self-Employed,605,747757,Business Expansion,104486,0
+2903,Ishaan Das,40,1126872,Self-Employed,705,100000,Car Purchase,329850,1
+2904,Ananya Das,41,698050,Contract,551,904105,Education,277306,0
+2905,Diya Das,34,615889,Salaried,577,257005,Home Renovation,234067,1
+2906,Aadhya Das,41,606931,Salaried,702,564720,Home Renovation,159261,1
+2907,Aarohi Das,34,667041,Salaried,630,1129193,Home Renovation,79048,0
+2908,Anika Das,34,604657,Self-Employed,625,100000,Debt Consolidation,184338,1
+2909,Myra Das,35,1469227,Self-Employed,670,1723965,Car Purchase,324227,0
+2910,Sara Das,33,438629,Salaried,653,617779,Education,102822,0
+2911,Aisha Das,53,500929,Salaried,645,100000,Car Purchase,122066,1
+2912,Aarav Mehta,44,542029,Salaried,615,408533,Business Expansion,193577,0
+2913,Vivaan Mehta,22,365681,Contract,597,416969,Business Expansion,93366,0
+2914,Aditya Mehta,52,419237,Self-Employed,660,187165,Home Renovation,182202,1
+2915,Vihaan Mehta,21,393859,Contract,512,672737,Debt Consolidation,194017,0
+2916,Arjun Mehta,38,327156,Salaried,731,237626,Car Purchase,0,1
+2917,Sai Mehta,38,537630,Salaried,683,558962,Debt Consolidation,51586,1
+2918,Atharv Mehta,55,538834,Salaried,731,458045,Debt Consolidation,117980,1
+2919,Ishaan Mehta,21,714569,Salaried,604,1494492,Education,118076,0
+2920,Ananya Mehta,26,238730,Salaried,690,415768,Car Purchase,79824,0
+2921,Diya Mehta,35,977488,Salaried,692,1533013,Car Purchase,335462,0
+2922,Aadhya Mehta,40,636726,Salaried,714,685656,Education,259667,0
+2923,Aarohi Mehta,29,931643,Salaried,592,1231097,Education,107306,0
+2924,Anika Mehta,36,532056,Salaried,727,100000,Debt Consolidation,256336,1
+2925,Myra Mehta,45,669985,Salaried,685,370841,Home Renovation,204985,1
+2926,Sara Mehta,31,653112,Salaried,648,1013828,Debt Consolidation,18825,0
+2927,Aisha Mehta,29,569106,Salaried,656,385167,Medical,0,1
+2928,Aarav Bose,40,419421,Salaried,710,153127,Car Purchase,23948,1
+2929,Vivaan Bose,34,514528,Salaried,666,1213633,Education,121880,0
+2930,Aditya Bose,21,554785,Salaried,628,258315,Medical,271486,1
+2931,Vihaan Bose,42,639353,Salaried,661,1051735,Medical,129361,0
+2932,Arjun Bose,23,732479,Salaried,602,100000,Medical,302771,1
+2933,Sai Bose,29,625492,Salaried,673,727978,Business Expansion,0,0
+2934,Atharv Bose,47,430808,Salaried,788,711435,Medical,113980,0
+2935,Ishaan Bose,33,498124,Salaried,655,159224,Education,70930,1
+2936,Ananya Bose,35,537591,Salaried,623,100000,Debt Consolidation,153361,1
+2937,Diya Bose,37,767414,Salaried,633,1635437,Debt Consolidation,388603,0
+2938,Aadhya Bose,32,427153,Salaried,668,302657,Medical,18471,1
+2939,Aarohi Bose,21,683690,Salaried,625,195623,Medical,101684,1
+2940,Anika Bose,32,539702,Salaried,683,764722,Business Expansion,0,0
+2941,Myra Bose,34,520936,Salaried,671,115664,Medical,189929,1
+2942,Sara Bose,33,223121,Unemployed,663,281296,Home Renovation,77863,0
+2943,Aisha Bose,37,364199,Salaried,659,234264,Medical,104871,1
+2944,Aarav Nair,47,829333,Salaried,672,641377,Education,314798,1
+2945,Vivaan Nair,32,290634,Contract,567,100000,Medical,42107,0
+2946,Aditya Nair,21,707397,Salaried,668,1140697,Education,219186,0
+2947,Vihaan Nair,39,372637,Self-Employed,651,305943,Home Renovation,171261,0
+2948,Arjun Nair,42,946566,Salaried,642,1510536,Car Purchase,161974,0
+2949,Sai Nair,24,1190603,Self-Employed,667,1010039,Education,547025,0
+2950,Atharv Nair,41,851342,Self-Employed,530,1538941,Education,329197,0
+2951,Ishaan Nair,21,501123,Salaried,632,361721,Debt Consolidation,190323,0
+2952,Ananya Nair,45,1291140,Salaried,759,1725482,Medical,219500,1
+2953,Diya Nair,35,486879,Salaried,656,536650,Home Renovation,201138,0
+2954,Aadhya Nair,46,546930,Salaried,641,425897,Debt Consolidation,69637,1
+2955,Aarohi Nair,30,461824,Contract,564,344423,Medical,163063,0
+2956,Anika Nair,21,290247,Self-Employed,733,319037,Debt Consolidation,0,1
+2957,Myra Nair,29,344216,Contract,616,140577,Business Expansion,77397,0
+2958,Sara Nair,30,867676,Salaried,581,613860,Home Renovation,185821,0
+2959,Aisha Nair,31,681666,Salaried,662,885442,Education,93774,0
+2960,Aarav Rao,41,748547,Salaried,654,1258444,Debt Consolidation,0,0
+2961,Vivaan Rao,41,753372,Contract,604,849683,Car Purchase,177073,0
+2962,Aditya Rao,31,687250,Salaried,643,1238325,Business Expansion,234040,0
+2963,Vihaan Rao,33,496490,Salaried,642,758815,Education,0,0
+2964,Arjun Rao,21,1135485,Salaried,727,2518337,Car Purchase,186005,0
+2965,Sai Rao,40,1483563,Self-Employed,724,500221,Education,450013,1
+2966,Atharv Rao,50,676594,Salaried,782,167085,Car Purchase,130809,1
+2967,Ishaan Rao,26,1033445,Salaried,615,1708787,Education,342672,0
+2968,Ananya Rao,34,391264,Contract,671,575831,Debt Consolidation,161125,0
+2969,Diya Rao,33,645718,Salaried,582,100000,Car Purchase,158736,1
+2970,Aadhya Rao,27,263079,Contract,557,370342,Car Purchase,40388,0
+2971,Aarohi Rao,34,526119,Salaried,669,850430,Business Expansion,73364,0
+2972,Anika Rao,29,150000,Unemployed,591,254250,Home Renovation,66057,0
+2973,Myra Rao,40,907907,Contract,702,1307486,Car Purchase,62217,0
+2974,Sara Rao,39,273943,Contract,562,497648,Business Expansion,41878,0
+2975,Aisha Rao,45,981871,Salaried,614,1304492,Debt Consolidation,200249,0
+2976,Aarav Mishra,41,1263211,Salaried,706,2321677,Debt Consolidation,273016,0
+2977,Vivaan Mishra,36,475405,Salaried,675,244263,Education,44558,1
+2978,Aditya Mishra,44,389162,Self-Employed,653,384061,Medical,207735,0
+2979,Vihaan Mishra,37,184269,Contract,674,152975,Medical,26443,0
+2980,Arjun Mishra,25,412862,Salaried,619,522743,Business Expansion,124209,0
+2981,Sai Mishra,26,507137,Self-Employed,633,479616,Debt Consolidation,234786,0
+2982,Atharv Mishra,36,249381,Self-Employed,698,100000,Home Renovation,32641,1
+2983,Ishaan Mishra,40,622293,Self-Employed,676,490198,Education,292829,0
+2984,Ananya Mishra,54,368107,Salaried,741,374711,Education,172863,1
+2985,Diya Mishra,32,459373,Salaried,652,298688,Debt Consolidation,198265,0
+2986,Aadhya Mishra,43,537020,Salaried,640,679196,Debt Consolidation,30867,0
+2987,Aarohi Mishra,27,423753,Contract,650,207117,Medical,25198,1
+2988,Anika Mishra,37,540236,Salaried,648,453945,Home Renovation,164120,0
+2989,Myra Mishra,48,458506,Salaried,706,988488,Car Purchase,30474,0
+2990,Sara Mishra,34,771847,Salaried,680,612512,Medical,25193,1
+2991,Aisha Mishra,41,479379,Salaried,657,602181,Business Expansion,142447,0
+2992,Aarav Chopra,35,401691,Self-Employed,659,548986,Education,132516,0
+2993,Vivaan Chopra,29,660607,Salaried,678,1039765,Education,60257,0
+2994,Aditya Chopra,30,423996,Contract,619,287867,Medical,172256,0
+2995,Vihaan Chopra,28,892732,Salaried,643,669680,Debt Consolidation,189989,1
+2996,Arjun Chopra,38,477595,Salaried,652,513389,Education,78760,1
+2997,Sai Chopra,38,415742,Self-Employed,640,454345,Medical,42276,0
+2998,Atharv Chopra,49,1406329,Contract,724,1870805,Car Purchase,627095,0
+2999,Ishaan Chopra,29,557800,Salaried,637,723998,Education,191376,0
+3000,Ananya Chopra,28,652215,Salaried,619,421778,Home Renovation,31176,1
+3001,Diya Chopra,26,576502,Salaried,650,411600,Education,161905,1
+3002,Aadhya Chopra,36,315832,Contract,618,100000,Debt Consolidation,51442,1
+3003,Aarohi Chopra,21,578614,Salaried,658,457011,Car Purchase,174906,0
+3004,Anika Chopra,43,827430,Salaried,764,1334139,Car Purchase,213538,1
+3005,Myra Chopra,38,371175,Salaried,553,744820,Medical,82793,0
+3006,Sara Chopra,33,678426,Salaried,662,361694,Business Expansion,90677,1
+3007,Aisha Chopra,28,680472,Self-Employed,576,1388182,Home Renovation,217942,0
+3008,Aarav Ghosh,29,406814,Salaried,610,501851,Debt Consolidation,17152,0
+3009,Vivaan Ghosh,43,469215,Salaried,755,127072,Education,54456,1
+3010,Aditya Ghosh,21,472697,Salaried,654,691889,Debt Consolidation,115343,0
+3011,Vihaan Ghosh,40,344290,Salaried,727,100000,Medical,87995,1
+3012,Arjun Ghosh,22,370614,Self-Employed,611,292893,Business Expansion,147781,0
+3013,Sai Ghosh,31,518737,Self-Employed,683,373160,Business Expansion,57840,1
+3014,Atharv Ghosh,29,394967,Salaried,631,666037,Debt Consolidation,26166,0
+3015,Ishaan Ghosh,23,570109,Self-Employed,582,584567,Car Purchase,183077,0
+3016,Ananya Ghosh,34,313237,Salaried,631,294439,Car Purchase,56928,0
+3017,Diya Ghosh,38,718466,Self-Employed,634,645389,Car Purchase,35551,1
+3018,Aadhya Ghosh,44,160219,Contract,566,204618,Debt Consolidation,30288,0
+3019,Aarohi Ghosh,25,755765,Salaried,622,859568,Debt Consolidation,183405,1
+3020,Anika Ghosh,35,393078,Salaried,705,643856,Education,80653,0
+3021,Myra Ghosh,28,418256,Salaried,669,548168,Debt Consolidation,110285,0
+3022,Sara Ghosh,29,201421,Contract,643,389822,Medical,0,0
+3023,Aisha Ghosh,33,1380375,Self-Employed,590,2536323,Education,270216,0
+3024,Aarav Sharma,35,412895,Salaried,640,640578,Car Purchase,103702,0
+3025,Vivaan Sharma,34,654121,Salaried,633,166074,Medical,132008,1
+3026,Aditya Sharma,47,255881,Salaried,690,341115,Car Purchase,128143,0
+3027,Vihaan Sharma,51,414333,Contract,661,136219,Medical,103736,1
+3028,Arjun Sharma,31,672723,Salaried,641,397521,Education,0,1
+3029,Sai Sharma,44,652414,Salaried,736,381811,Education,173044,1
+3030,Atharv Sharma,31,653476,Salaried,641,921823,Debt Consolidation,325373,0
+3031,Ishaan Sharma,35,1604344,Self-Employed,693,377094,Home Renovation,271109,1
+3032,Ananya Sharma,38,766175,Salaried,710,167377,Debt Consolidation,350416,1
+3033,Diya Sharma,29,691281,Salaried,659,591543,Medical,34583,1
+3034,Aadhya Sharma,28,739866,Salaried,621,983362,Debt Consolidation,272684,0
+3035,Aarohi Sharma,36,542738,Salaried,598,1041569,Car Purchase,243487,0
+3036,Anika Sharma,44,864470,Salaried,694,857168,Education,406278,0
+3037,Myra Sharma,41,704150,Self-Employed,678,444865,Education,161191,1
+3038,Sara Sharma,21,481772,Salaried,587,417463,Home Renovation,58383,0
+3039,Aisha Sharma,41,150000,Unemployed,651,100000,Education,74247,0
+3040,Aarav Verma,45,595645,Contract,635,100000,Home Renovation,148027,1
+3041,Vivaan Verma,27,875262,Contract,580,1291761,Business Expansion,277127,0
+3042,Aditya Verma,31,736936,Contract,641,1473717,Medical,256369,0
+3043,Vihaan Verma,34,801889,Salaried,579,892525,Home Renovation,283273,0
+3044,Arjun Verma,50,281013,Unemployed,671,246614,Car Purchase,126283,0
+3045,Sai Verma,30,403368,Salaried,614,216077,Home Renovation,59705,1
+3046,Atharv Verma,46,536403,Self-Employed,710,694349,Business Expansion,157418,0
+3047,Ishaan Verma,40,462221,Contract,594,341239,Debt Consolidation,53407,0
+3048,Ananya Verma,40,968403,Self-Employed,650,1234353,Car Purchase,307622,0
+3049,Diya Verma,34,500155,Salaried,688,816998,Medical,133634,0
+3050,Aadhya Verma,44,1034942,Salaried,668,757561,Education,511324,1
+3051,Aarohi Verma,21,319678,Contract,643,153424,Education,150178,0
+3052,Anika Verma,45,1124931,Self-Employed,683,1040968,Debt Consolidation,0,1
+3053,Myra Verma,51,348569,Contract,589,183568,Medical,137755,0
+3054,Sara Verma,34,730803,Salaried,658,1221528,Education,268172,0
+3055,Aisha Verma,44,262469,Contract,652,467645,Debt Consolidation,93635,0
+3056,Aarav Iyer,37,459232,Salaried,609,803620,Business Expansion,98361,0
+3057,Vivaan Iyer,44,302752,Salaried,600,266091,Medical,104281,0
+3058,Aditya Iyer,34,539133,Contract,596,369415,Car Purchase,153302,0
+3059,Vihaan Iyer,30,347252,Salaried,663,572631,Home Renovation,25668,0
+3060,Arjun Iyer,33,658146,Salaried,685,557641,Debt Consolidation,264264,0
+3061,Sai Iyer,32,540787,Salaried,637,304516,Education,115704,1
+3062,Atharv Iyer,37,968782,Self-Employed,591,788983,Medical,429539,0
+3063,Ishaan Iyer,35,346168,Unemployed,585,285925,Education,204525,0
+3064,Ananya Iyer,41,455988,Contract,607,155482,Debt Consolidation,242194,0
+3065,Diya Iyer,46,489128,Salaried,634,514409,Business Expansion,59648,0
+3066,Aadhya Iyer,38,412214,Self-Employed,644,534614,Medical,205353,0
+3067,Aarohi Iyer,28,474927,Salaried,687,584273,Home Renovation,251854,0
+3068,Anika Iyer,45,419916,Self-Employed,646,270609,Medical,101965,1
+3069,Myra Iyer,29,423383,Salaried,687,323409,Debt Consolidation,81710,1
+3070,Sara Iyer,27,371539,Salaried,735,100000,Medical,132315,1
+3071,Aisha Iyer,27,695971,Salaried,561,483701,Business Expansion,187858,0
+3072,Aarav Kumar,24,933163,Self-Employed,628,459031,Debt Consolidation,259278,0
+3073,Vivaan Kumar,39,340630,Salaried,679,669065,Debt Consolidation,42487,0
+3074,Aditya Kumar,38,359127,Contract,588,388707,Car Purchase,79442,0
+3075,Vihaan Kumar,32,628353,Salaried,594,742525,Home Renovation,115488,0
+3076,Arjun Kumar,45,366789,Contract,649,376504,Home Renovation,0,0
+3077,Sai Kumar,43,512191,Salaried,570,551490,Debt Consolidation,64086,0
+3078,Atharv Kumar,21,345045,Salaried,670,437940,Education,0,1
+3079,Ishaan Kumar,34,496774,Salaried,656,327268,Car Purchase,93178,1
+3080,Ananya Kumar,36,785921,Self-Employed,614,193084,Education,113167,1
+3081,Diya Kumar,33,349671,Unemployed,638,315289,Education,157404,0
+3082,Aadhya Kumar,36,256225,Contract,631,321232,Debt Consolidation,112963,0
+3083,Aarohi Kumar,26,382512,Salaried,621,606686,Home Renovation,224691,0
+3084,Anika Kumar,35,296177,Salaried,654,358210,Business Expansion,124521,0
+3085,Myra Kumar,27,285686,Salaried,587,100000,Business Expansion,36272,1
+3086,Sara Kumar,38,153202,Unemployed,640,156010,Medical,34914,0
+3087,Aisha Kumar,30,439614,Salaried,653,539850,Education,0,0
+3088,Aarav Patel,34,440425,Salaried,636,143068,Car Purchase,0,1
+3089,Vivaan Patel,34,1020541,Salaried,633,1778134,Debt Consolidation,271519,0
+3090,Aditya Patel,34,690429,Self-Employed,603,738299,Business Expansion,225645,0
+3091,Vihaan Patel,41,606514,Salaried,713,688243,Education,107093,0
+3092,Arjun Patel,42,261471,Contract,633,276767,Business Expansion,58275,0
+3093,Sai Patel,47,260267,Salaried,667,163601,Home Renovation,118946,0
+3094,Atharv Patel,38,285110,Salaried,600,243182,Education,123555,0
+3095,Ishaan Patel,29,712218,Salaried,683,787872,Medical,136816,1
+3096,Ananya Patel,45,182493,Unemployed,614,182058,Education,57962,0
+3097,Diya Patel,29,421416,Self-Employed,547,792556,Medical,85154,0
+3098,Aadhya Patel,38,425285,Salaried,601,100000,Education,38137,1
+3099,Aarohi Patel,47,922567,Salaried,682,976098,Business Expansion,358068,0
+3100,Anika Patel,35,220396,Contract,635,100000,Home Renovation,76732,0
+3101,Myra Patel,32,589660,Salaried,590,1066313,Car Purchase,184611,0
+3102,Sara Patel,29,681648,Self-Employed,714,100000,Home Renovation,178555,1
+3103,Aisha Patel,35,616484,Salaried,610,715051,Business Expansion,306230,0
+3104,Aarav Singh,26,783541,Self-Employed,592,920729,Education,283070,0
+3105,Vivaan Singh,21,759278,Salaried,651,688710,Debt Consolidation,433872,0
+3106,Aditya Singh,43,295374,Contract,660,220829,Debt Consolidation,52589,0
+3107,Vihaan Singh,44,728319,Salaried,631,100000,Medical,159106,1
+3108,Arjun Singh,28,1422984,Self-Employed,632,1278655,Car Purchase,353536,0
+3109,Sai Singh,37,368147,Salaried,613,780389,Home Renovation,0,0
+3110,Atharv Singh,51,250284,Contract,598,378105,Medical,86931,0
+3111,Ishaan Singh,34,430741,Salaried,689,242110,Medical,38698,1
+3112,Ananya Singh,28,444127,Contract,599,557469,Business Expansion,200669,0
+3113,Diya Singh,26,616809,Salaried,574,986345,Car Purchase,222305,0
+3114,Aadhya Singh,41,151513,Self-Employed,625,100000,Home Renovation,29607,0
+3115,Aarohi Singh,29,797355,Salaried,690,897658,Medical,220457,0
+3116,Anika Singh,36,439346,Salaried,634,208009,Medical,92368,0
+3117,Myra Singh,30,392839,Salaried,694,100000,Medical,187130,1
+3118,Sara Singh,46,280835,Salaried,682,254611,Car Purchase,140260,0
+3119,Aisha Singh,35,565765,Salaried,594,309049,Business Expansion,65051,1
+3120,Aarav Reddy,27,217773,Contract,578,215906,Home Renovation,94116,0
+3121,Vivaan Reddy,32,1091492,Salaried,608,1059259,Education,156977,0
+3122,Aditya Reddy,24,998329,Salaried,653,2275703,Debt Consolidation,364958,0
+3123,Vihaan Reddy,35,429372,Salaried,652,566454,Business Expansion,132983,0
+3124,Arjun Reddy,42,786880,Self-Employed,656,516315,Car Purchase,325296,0
+3125,Sai Reddy,45,622696,Salaried,677,484384,Debt Consolidation,226448,1
+3126,Atharv Reddy,43,381445,Salaried,781,100000,Car Purchase,73510,1
+3127,Ishaan Reddy,41,829552,Self-Employed,656,523599,Debt Consolidation,247930,0
+3128,Ananya Reddy,34,619028,Contract,615,844830,Education,262931,0
+3129,Diya Reddy,21,772930,Self-Employed,630,815850,Car Purchase,287351,0
+3130,Aadhya Reddy,49,388312,Salaried,680,100000,Car Purchase,55831,1
+3131,Aarohi Reddy,31,1457586,Self-Employed,654,1288631,Car Purchase,384110,0
+3132,Anika Reddy,41,393552,Salaried,653,580530,Debt Consolidation,0,0
+3133,Myra Reddy,32,327211,Contract,594,532774,Medical,77126,0
+3134,Sara Reddy,51,639049,Salaried,619,308873,Debt Consolidation,203272,1
+3135,Aisha Reddy,26,698194,Salaried,653,100000,Home Renovation,245319,1
+3136,Aarav Gupta,38,367077,Salaried,681,100000,Business Expansion,124753,1
+3137,Vivaan Gupta,47,522698,Salaried,582,372647,Car Purchase,116142,0
+3138,Aditya Gupta,31,618601,Salaried,685,1039444,Home Renovation,66018,0
+3139,Vihaan Gupta,34,284911,Salaried,622,145912,Medical,33731,1
+3140,Arjun Gupta,55,461356,Salaried,674,298189,Medical,237899,1
+3141,Sai Gupta,43,660971,Salaried,661,587411,Home Renovation,0,1
+3142,Atharv Gupta,43,756550,Salaried,636,476631,Car Purchase,335352,0
+3143,Ishaan Gupta,43,825954,Salaried,627,301117,Business Expansion,306943,0
+3144,Ananya Gupta,32,452676,Salaried,671,787064,Business Expansion,207089,0
+3145,Diya Gupta,28,272390,Contract,553,425502,Debt Consolidation,84537,0
+3146,Aadhya Gupta,29,197880,Unemployed,611,144968,Business Expansion,27680,0
+3147,Aarohi Gupta,46,586118,Salaried,600,1027955,Home Renovation,261340,0
+3148,Anika Gupta,29,335461,Contract,633,100000,Car Purchase,94356,1
+3149,Myra Gupta,34,388384,Salaried,666,1042284,Medical,75194,0
+3150,Sara Gupta,33,622835,Salaried,619,681634,Debt Consolidation,156980,0
+3151,Aisha Gupta,36,435233,Salaried,678,315140,Education,92254,1
+3152,Aarav Das,38,522283,Salaried,733,114599,Business Expansion,0,1
+3153,Vivaan Das,32,567281,Salaried,634,213692,Home Renovation,231006,1
+3154,Aditya Das,26,197186,Unemployed,613,363064,Education,80853,0
+3155,Vihaan Das,23,997794,Salaried,679,338237,Medical,206585,1
+3156,Arjun Das,34,404735,Self-Employed,674,100000,Education,41232,1
+3157,Sai Das,21,442375,Salaried,599,100000,Car Purchase,55094,1
+3158,Atharv Das,35,599303,Self-Employed,593,1044924,Debt Consolidation,44849,0
+3159,Ishaan Das,40,174361,Unemployed,566,100000,Home Renovation,22615,0
+3160,Ananya Das,47,412648,Salaried,664,100000,Business Expansion,155401,1
+3161,Diya Das,36,376021,Self-Employed,622,638381,Debt Consolidation,24132,0
+3162,Aadhya Das,35,564790,Salaried,729,884314,Car Purchase,195427,0
+3163,Aarohi Das,48,272370,Contract,642,395527,Business Expansion,25282,0
+3164,Anika Das,43,609941,Salaried,660,683765,Business Expansion,235018,0
+3165,Myra Das,36,605275,Contract,625,690578,Debt Consolidation,428387,0
+3166,Sara Das,41,777302,Self-Employed,657,880290,Debt Consolidation,0,0
+3167,Aisha Das,35,804721,Salaried,636,747938,Home Renovation,226577,0
+3168,Aarav Mehta,47,491949,Self-Employed,667,562527,Business Expansion,165342,0
+3169,Vivaan Mehta,30,340946,Contract,521,650260,Home Renovation,65110,0
+3170,Aditya Mehta,43,263893,Unemployed,667,411951,Home Renovation,0,0
+3171,Vihaan Mehta,42,384924,Salaried,624,331493,Debt Consolidation,133417,0
+3172,Arjun Mehta,21,445953,Contract,561,522129,Education,102738,0
+3173,Sai Mehta,48,605034,Salaried,696,239882,Car Purchase,0,1
+3174,Atharv Mehta,36,736522,Salaried,676,582224,Business Expansion,199242,1
+3175,Ishaan Mehta,35,647649,Salaried,667,327928,Business Expansion,154442,1
+3176,Ananya Mehta,21,761592,Self-Employed,562,733009,Home Renovation,256531,0
+3177,Diya Mehta,38,462825,Salaried,721,829165,Education,25984,0
+3178,Aadhya Mehta,44,605767,Self-Employed,616,837527,Education,43509,0
+3179,Aarohi Mehta,21,552990,Self-Employed,658,221647,Home Renovation,90249,1
+3180,Anika Mehta,42,337198,Contract,624,109302,Car Purchase,70347,1
+3181,Myra Mehta,45,818885,Salaried,715,461042,Medical,144435,1
+3182,Sara Mehta,23,625871,Salaried,585,167696,Education,327962,0
+3183,Aisha Mehta,37,571134,Salaried,674,481723,Business Expansion,148415,1
+3184,Aarav Bose,39,357284,Salaried,604,401793,Debt Consolidation,33525,0
+3185,Vivaan Bose,42,333334,Self-Employed,635,150202,Medical,59610,1
+3186,Aditya Bose,47,831594,Self-Employed,666,1391591,Home Renovation,0,0
+3187,Vihaan Bose,37,445616,Contract,583,427361,Car Purchase,159503,0
+3188,Arjun Bose,41,450965,Salaried,698,299998,Debt Consolidation,104574,1
+3189,Sai Bose,36,566033,Salaried,728,1025683,Home Renovation,86697,0
+3190,Atharv Bose,42,636475,Salaried,670,1468469,Business Expansion,112183,0
+3191,Ishaan Bose,35,470271,Salaried,709,271225,Car Purchase,32875,1
+3192,Ananya Bose,24,214545,Contract,655,256941,Home Renovation,67441,0
+3193,Diya Bose,43,463155,Salaried,593,614338,Education,155320,0
+3194,Aadhya Bose,26,529932,Contract,562,570727,Business Expansion,95925,0
+3195,Aarohi Bose,26,404784,Self-Employed,642,197079,Education,142756,1
+3196,Anika Bose,37,719621,Salaried,667,773112,Business Expansion,120479,1
+3197,Myra Bose,21,721489,Salaried,629,880666,Home Renovation,150656,0
+3198,Sara Bose,28,482557,Salaried,678,205806,Home Renovation,216833,1
+3199,Aisha Bose,38,415529,Salaried,664,567478,Home Renovation,42384,0
+3200,Aarav Nair,38,867637,Salaried,683,1583902,Car Purchase,196963,0
+3201,Vivaan Nair,42,883017,Salaried,650,1140702,Home Renovation,319576,0
+3202,Aditya Nair,36,353712,Salaried,671,100000,Education,74959,1
+3203,Vihaan Nair,42,486524,Salaried,661,401480,Home Renovation,99704,1
+3204,Arjun Nair,34,827095,Self-Employed,629,1119556,Business Expansion,199313,0
+3205,Sai Nair,30,443416,Unemployed,623,363943,Education,96003,0
+3206,Atharv Nair,28,304330,Contract,622,100000,Debt Consolidation,94421,1
+3207,Ishaan Nair,47,738328,Salaried,657,682436,Education,181844,1
+3208,Ananya Nair,51,402306,Salaried,653,638278,Debt Consolidation,156261,0
+3209,Diya Nair,38,773322,Salaried,702,498032,Business Expansion,115801,1
+3210,Aadhya Nair,33,920745,Self-Employed,708,1603579,Home Renovation,268287,0
+3211,Aarohi Nair,48,721213,Salaried,606,594239,Home Renovation,117024,0
+3212,Anika Nair,35,865817,Salaried,630,106082,Business Expansion,342267,1
+3213,Myra Nair,41,1856526,Self-Employed,709,3000000,Debt Consolidation,331348,0
+3214,Sara Nair,32,553602,Salaried,582,494330,Home Renovation,81079,0
+3215,Aisha Nair,22,287064,Contract,536,450954,Business Expansion,109365,0
+3216,Aarav Rao,27,879161,Self-Employed,584,1066740,Education,369097,0
+3217,Vivaan Rao,33,515094,Salaried,667,651781,Education,184744,0
+3218,Aditya Rao,40,535063,Salaried,723,1170393,Car Purchase,101333,0
+3219,Vihaan Rao,26,535353,Salaried,646,434027,Debt Consolidation,0,1
+3220,Arjun Rao,24,351394,Salaried,678,642020,Education,103410,0
+3221,Sai Rao,44,518097,Self-Employed,650,537668,Debt Consolidation,180612,0
+3222,Atharv Rao,27,886135,Salaried,661,563335,Business Expansion,15610,1
+3223,Ishaan Rao,55,720171,Self-Employed,674,100000,Car Purchase,328830,1
+3224,Ananya Rao,35,276679,Unemployed,630,368753,Home Renovation,35370,0
+3225,Diya Rao,43,437387,Contract,563,388123,Education,74481,0
+3226,Aadhya Rao,32,411439,Salaried,656,433551,Home Renovation,97722,0
+3227,Aarohi Rao,33,519185,Self-Employed,650,593198,Medical,53988,0
+3228,Anika Rao,46,150000,Salaried,732,100000,Medical,19817,1
+3229,Myra Rao,32,982106,Contract,551,1138296,Debt Consolidation,98367,0
+3230,Sara Rao,38,407350,Salaried,649,556876,Home Renovation,92714,0
+3231,Aisha Rao,26,460308,Salaried,672,263145,Home Renovation,99304,1
+3232,Aarav Mishra,25,305976,Contract,554,114820,Home Renovation,2509,0
+3233,Vivaan Mishra,32,516144,Salaried,648,233255,Debt Consolidation,253707,1
+3234,Aditya Mishra,31,502819,Salaried,667,681127,Home Renovation,186136,0
+3235,Vihaan Mishra,48,457429,Salaried,672,395763,Business Expansion,62907,1
+3236,Arjun Mishra,29,331580,Salaried,620,299240,Home Renovation,77901,1
+3237,Sai Mishra,41,160046,Unemployed,668,102416,Business Expansion,52804,0
+3238,Atharv Mishra,36,560115,Salaried,601,100000,Car Purchase,0,1
+3239,Ishaan Mishra,31,433884,Salaried,622,207631,Education,104763,1
+3240,Ananya Mishra,28,653719,Salaried,641,673336,Business Expansion,156447,0
+3241,Diya Mishra,27,538254,Salaried,657,955784,Education,54544,0
+3242,Aadhya Mishra,35,479409,Salaried,599,229678,Car Purchase,67497,1
+3243,Aarohi Mishra,28,368223,Salaried,643,745984,Car Purchase,154092,0
+3244,Anika Mishra,39,413220,Salaried,678,253663,Car Purchase,67168,1
+3245,Myra Mishra,39,340051,Contract,613,436485,Medical,124106,0
+3246,Sara Mishra,35,254357,Contract,574,283687,Debt Consolidation,90374,0
+3247,Aisha Mishra,30,358018,Contract,565,411765,Home Renovation,91249,0
+3248,Aarav Chopra,24,700400,Salaried,605,753512,Debt Consolidation,100505,0
+3249,Vivaan Chopra,24,447492,Salaried,614,686086,Medical,130431,0
+3250,Aditya Chopra,43,641201,Salaried,717,592698,Debt Consolidation,152007,1
+3251,Vihaan Chopra,26,407697,Self-Employed,627,114077,Education,157508,1
+3252,Arjun Chopra,43,407469,Salaried,726,250842,Education,116611,1
+3253,Sai Chopra,28,569166,Salaried,676,740453,Debt Consolidation,157190,0
+3254,Atharv Chopra,28,279365,Contract,617,360439,Car Purchase,43802,0
+3255,Ishaan Chopra,33,566655,Salaried,655,676022,Business Expansion,127913,0
+3256,Ananya Chopra,39,344779,Contract,631,362332,Education,166132,0
+3257,Diya Chopra,29,1017267,Self-Employed,647,2542168,Business Expansion,384166,0
+3258,Aadhya Chopra,46,403077,Unemployed,563,666922,Education,40180,0
+3259,Aarohi Chopra,29,465945,Salaried,604,446871,Debt Consolidation,111046,0
+3260,Anika Chopra,48,386202,Salaried,683,102554,Business Expansion,34713,1
+3261,Myra Chopra,56,270277,Contract,692,125785,Debt Consolidation,118741,1
+3262,Sara Chopra,43,988733,Self-Employed,548,246452,Medical,123612,1
+3263,Aisha Chopra,40,323253,Contract,605,317863,Debt Consolidation,70885,0
+3264,Aarav Ghosh,39,1016520,Salaried,651,1331935,Debt Consolidation,85065,0
+3265,Vivaan Ghosh,40,464336,Contract,584,702072,Education,74396,0
+3266,Aditya Ghosh,30,765638,Salaried,717,813766,Debt Consolidation,235534,1
+3267,Vihaan Ghosh,31,744840,Salaried,612,856761,Business Expansion,340700,0
+3268,Arjun Ghosh,21,996563,Contract,569,781841,Debt Consolidation,182968,0
+3269,Sai Ghosh,32,606329,Contract,523,806070,Education,27274,0
+3270,Atharv Ghosh,21,885342,Salaried,618,1145931,Medical,214163,0
+3271,Ishaan Ghosh,31,558526,Contract,644,517237,Debt Consolidation,29691,0
+3272,Ananya Ghosh,41,550361,Salaried,664,792058,Debt Consolidation,225998,0
+3273,Diya Ghosh,32,664272,Salaried,668,567945,Debt Consolidation,142620,1
+3274,Aadhya Ghosh,43,663385,Salaried,757,635015,Medical,178391,1
+3275,Aarohi Ghosh,35,271818,Salaried,668,290945,Education,132815,0
+3276,Anika Ghosh,40,709857,Salaried,689,1304794,Medical,55535,0
+3277,Myra Ghosh,31,593681,Salaried,630,1001101,Debt Consolidation,80478,0
+3278,Sara Ghosh,35,1006290,Salaried,602,1033812,Medical,178063,0
+3279,Aisha Ghosh,37,1306213,Self-Employed,637,998608,Debt Consolidation,469029,0
+3280,Aarav Sharma,33,422086,Salaried,687,644227,Home Renovation,102619,0
+3281,Vivaan Sharma,34,548764,Salaried,575,729128,Education,194941,0
+3282,Aditya Sharma,43,1778418,Self-Employed,585,1192848,Business Expansion,543675,0
+3283,Vihaan Sharma,25,630719,Salaried,652,260175,Education,211791,1
+3284,Arjun Sharma,49,428573,Salaried,677,577569,Debt Consolidation,181157,0
+3285,Sai Sharma,34,278150,Contract,632,176329,Medical,100663,1
+3286,Atharv Sharma,31,390357,Salaried,666,100000,Medical,13207,1
+3287,Ishaan Sharma,23,698634,Salaried,682,352173,Business Expansion,100481,1
+3288,Ananya Sharma,36,397400,Salaried,632,119678,Home Renovation,138001,1
+3289,Diya Sharma,40,1010850,Self-Employed,678,618163,Debt Consolidation,231750,1
+3290,Aadhya Sharma,33,420455,Salaried,712,100000,Car Purchase,16236,1
+3291,Aarohi Sharma,22,885709,Salaried,563,1495683,Home Renovation,166898,0
+3292,Anika Sharma,45,804325,Salaried,663,658762,Medical,497968,0
+3293,Myra Sharma,54,630051,Salaried,739,410123,Medical,202495,1
+3294,Sara Sharma,21,713901,Salaried,611,1136753,Home Renovation,222042,0
+3295,Aisha Sharma,39,150000,Unemployed,645,213983,Business Expansion,58410,0
+3296,Aarav Verma,31,154590,Self-Employed,618,148439,Business Expansion,22599,0
+3297,Vivaan Verma,29,244908,Salaried,672,100000,Business Expansion,44495,1
+3298,Aditya Verma,33,487738,Salaried,642,441737,Home Renovation,173741,0
+3299,Vihaan Verma,25,669088,Salaried,667,653784,Home Renovation,0,1
+3300,Arjun Verma,34,759696,Self-Employed,643,579541,Debt Consolidation,159084,0
+3301,Sai Verma,39,811467,Salaried,679,1019745,Business Expansion,163309,0
+3302,Atharv Verma,40,426035,Self-Employed,702,142016,Home Renovation,136955,1
+3303,Ishaan Verma,21,150000,Unemployed,513,148022,Debt Consolidation,32829,0
+3304,Ananya Verma,39,524108,Salaried,621,440879,Education,44412,1
+3305,Diya Verma,35,150000,Unemployed,629,286316,Medical,19298,0
+3306,Aadhya Verma,32,765860,Salaried,650,1164715,Debt Consolidation,176804,0
+3307,Aarohi Verma,38,527994,Salaried,611,724842,Debt Consolidation,162553,0
+3308,Anika Verma,31,567832,Salaried,671,459840,Debt Consolidation,62357,1
+3309,Myra Verma,31,801179,Self-Employed,583,604764,Home Renovation,46099,0
+3310,Sara Verma,38,454145,Salaried,686,338877,Debt Consolidation,39179,1
+3311,Aisha Verma,34,669886,Salaried,714,1255443,Business Expansion,158943,0
+3312,Aarav Iyer,44,326334,Salaried,632,239208,Car Purchase,98059,0
+3313,Vivaan Iyer,25,447105,Contract,626,385850,Debt Consolidation,211009,0
+3314,Aditya Iyer,23,593489,Self-Employed,636,892935,Business Expansion,143023,0
+3315,Vihaan Iyer,37,444239,Salaried,714,513722,Home Renovation,0,1
+3316,Arjun Iyer,21,710350,Salaried,662,785063,Home Renovation,213316,0
+3317,Sai Iyer,38,1689243,Self-Employed,651,2167705,Debt Consolidation,547774,0
+3318,Atharv Iyer,53,378717,Salaried,630,373766,Debt Consolidation,117356,0
+3319,Ishaan Iyer,26,394527,Salaried,591,148705,Education,100908,1
+3320,Ananya Iyer,35,660598,Self-Employed,667,439781,Education,128359,1
+3321,Diya Iyer,29,586505,Self-Employed,674,1257605,Home Renovation,200770,0
+3322,Aadhya Iyer,36,380468,Self-Employed,680,158790,Business Expansion,161808,1
+3323,Aarohi Iyer,21,777547,Salaried,627,559691,Debt Consolidation,115057,0
+3324,Anika Iyer,28,686924,Salaried,667,439749,Medical,230398,1
+3325,Myra Iyer,40,581624,Salaried,713,1198450,Medical,184316,0
+3326,Sara Iyer,25,420684,Unemployed,600,513861,Business Expansion,112522,0
+3327,Aisha Iyer,46,555976,Salaried,692,1170925,Medical,137249,0
+3328,Aarav Kumar,31,157667,Contract,616,100000,Home Renovation,34134,0
+3329,Vivaan Kumar,39,368400,Salaried,632,757065,Car Purchase,67178,0
+3330,Aditya Kumar,32,500945,Salaried,677,294062,Car Purchase,117427,1
+3331,Vihaan Kumar,29,760622,Salaried,677,1190478,Car Purchase,0,0
+3332,Arjun Kumar,41,602423,Salaried,641,832383,Education,222522,0
+3333,Sai Kumar,40,598394,Salaried,692,100000,Car Purchase,329982,1
+3334,Atharv Kumar,32,523852,Salaried,618,734170,Business Expansion,112530,0
+3335,Ishaan Kumar,36,482289,Self-Employed,721,464946,Car Purchase,150331,1
+3336,Ananya Kumar,36,415898,Salaried,651,577127,Home Renovation,0,0
+3337,Diya Kumar,33,289601,Salaried,701,660595,Home Renovation,54638,0
+3338,Aadhya Kumar,32,483319,Salaried,687,487481,Home Renovation,195359,0
+3339,Aarohi Kumar,46,564256,Contract,587,790873,Home Renovation,74680,0
+3340,Anika Kumar,33,465116,Salaried,586,557702,Car Purchase,149790,0
+3341,Myra Kumar,30,1388437,Self-Employed,587,1027377,Debt Consolidation,0,1
+3342,Sara Kumar,25,470968,Salaried,565,683385,Car Purchase,90428,0
+3343,Aisha Kumar,21,546902,Salaried,655,969107,Medical,167502,0
+3344,Aarav Patel,43,525088,Self-Employed,626,342109,Medical,107209,0
+3345,Vivaan Patel,45,743401,Salaried,660,1165670,Medical,149359,0
+3346,Aditya Patel,41,673855,Self-Employed,670,1415491,Education,73665,0
+3347,Vihaan Patel,35,754581,Self-Employed,624,617928,Education,131019,1
+3348,Arjun Patel,34,363845,Salaried,688,470892,Business Expansion,142570,0
+3349,Sai Patel,23,979884,Salaried,598,494906,Education,535684,0
+3350,Atharv Patel,28,422561,Contract,605,487108,Debt Consolidation,141524,0
+3351,Ishaan Patel,30,339908,Salaried,650,363384,Car Purchase,86402,0
+3352,Ananya Patel,36,743593,Self-Employed,624,593764,Medical,481124,0
+3353,Diya Patel,35,386786,Contract,633,528179,Medical,145845,0
+3354,Aadhya Patel,32,617999,Salaried,666,1284440,Education,58111,0
+3355,Aarohi Patel,28,368482,Salaried,657,620347,Medical,159845,0
+3356,Anika Patel,21,383360,Salaried,631,831775,Car Purchase,100323,0
+3357,Myra Patel,31,440599,Salaried,648,100000,Home Renovation,132236,1
+3358,Sara Patel,37,363293,Salaried,686,200572,Education,49820,1
+3359,Aisha Patel,49,272237,Salaried,674,342840,Car Purchase,73099,0
+3360,Aarav Singh,33,266003,Salaried,681,222615,Car Purchase,2355,1
+3361,Vivaan Singh,34,563649,Salaried,727,336576,Education,26980,1
+3362,Aditya Singh,28,491015,Salaried,626,100000,Business Expansion,40800,1
+3363,Vihaan Singh,40,150000,Unemployed,677,186026,Education,0,0
+3364,Arjun Singh,33,359599,Salaried,655,263737,Education,43801,1
+3365,Sai Singh,32,400527,Salaried,582,476930,Debt Consolidation,132940,0
+3366,Atharv Singh,37,521403,Salaried,683,320440,Business Expansion,0,1
+3367,Ishaan Singh,45,563954,Salaried,681,1419802,Education,82006,0
+3368,Ananya Singh,39,1082821,Salaried,695,685368,Debt Consolidation,371222,0
+3369,Diya Singh,33,488562,Salaried,630,528458,Debt Consolidation,152636,0
+3370,Aadhya Singh,28,492357,Salaried,702,649428,Medical,261990,0
+3371,Aarohi Singh,41,286471,Salaried,726,394181,Business Expansion,49098,1
+3372,Anika Singh,40,676864,Self-Employed,701,613201,Education,263156,0
+3373,Myra Singh,28,268023,Salaried,691,473802,Education,87960,0
+3374,Sara Singh,44,348969,Self-Employed,629,240502,Education,91783,1
+3375,Aisha Singh,42,912872,Self-Employed,641,1193292,Car Purchase,202170,0
+3376,Aarav Reddy,44,601728,Self-Employed,630,495332,Home Renovation,0,0
+3377,Vivaan Reddy,38,532622,Salaried,683,612376,Business Expansion,47143,1
+3378,Aditya Reddy,46,725893,Salaried,659,917703,Business Expansion,197698,0
+3379,Vihaan Reddy,27,404955,Contract,619,302029,Debt Consolidation,85309,0
+3380,Arjun Reddy,45,572111,Salaried,677,1217968,Business Expansion,167205,0
+3381,Sai Reddy,33,644894,Salaried,664,1148005,Car Purchase,37031,0
+3382,Atharv Reddy,34,614177,Self-Employed,651,827208,Medical,9599,0
+3383,Ishaan Reddy,24,683470,Salaried,656,816673,Car Purchase,137320,0
+3384,Ananya Reddy,26,282626,Salaried,644,100000,Home Renovation,59155,1
+3385,Diya Reddy,50,571970,Unemployed,589,484793,Medical,95725,0
+3386,Aadhya Reddy,21,693805,Salaried,687,130242,Car Purchase,79159,1
+3387,Aarohi Reddy,41,429417,Salaried,718,713207,Education,0,0
+3388,Anika Reddy,21,550050,Salaried,618,203925,Education,96141,1
+3389,Myra Reddy,37,346998,Contract,647,193463,Education,58044,1
+3390,Sara Reddy,28,953824,Salaried,601,867432,Business Expansion,172968,0
+3391,Aisha Reddy,27,170180,Contract,567,290295,Medical,76209,0
+3392,Aarav Gupta,30,437856,Salaried,642,615198,Home Renovation,52951,0
+3393,Vivaan Gupta,39,380173,Self-Employed,668,100000,Education,110020,1
+3394,Aditya Gupta,36,354601,Self-Employed,664,441975,Debt Consolidation,31541,0
+3395,Vihaan Gupta,42,398182,Self-Employed,696,344805,Car Purchase,67912,1
+3396,Arjun Gupta,28,322682,Salaried,657,349675,Home Renovation,53306,0
+3397,Sai Gupta,30,291108,Salaried,645,100000,Education,31393,1
+3398,Atharv Gupta,26,1123519,Self-Employed,628,1234223,Debt Consolidation,40869,0
+3399,Ishaan Gupta,37,340713,Self-Employed,542,557276,Medical,147361,0
+3400,Ananya Gupta,28,309382,Self-Employed,645,215683,Home Renovation,80259,1
+3401,Diya Gupta,34,525704,Salaried,638,333019,Education,177203,1
+3402,Aadhya Gupta,38,427594,Salaried,628,429765,Business Expansion,118423,1
+3403,Aarohi Gupta,43,621030,Salaried,691,464631,Education,235888,1
+3404,Anika Gupta,34,404695,Salaried,687,295480,Debt Consolidation,164464,1
+3405,Myra Gupta,33,746627,Salaried,718,607996,Medical,112816,1
+3406,Sara Gupta,26,769961,Self-Employed,607,178814,Education,31624,1
+3407,Aisha Gupta,32,499317,Salaried,694,156591,Home Renovation,195535,1
+3408,Aarav Das,35,290446,Salaried,656,276116,Business Expansion,80490,1
+3409,Vivaan Das,44,753326,Salaried,668,327960,Debt Consolidation,210192,1
+3410,Aditya Das,26,457930,Contract,570,219713,Education,41898,1
+3411,Vihaan Das,39,413433,Contract,551,459777,Business Expansion,57760,0
+3412,Arjun Das,26,150000,Unemployed,555,153263,Medical,66740,0
+3413,Sai Das,44,706264,Self-Employed,682,100000,Car Purchase,405153,1
+3414,Atharv Das,38,363715,Salaried,661,576976,Home Renovation,86649,0
+3415,Ishaan Das,42,233890,Contract,569,100000,Business Expansion,17192,0
+3416,Ananya Das,36,524312,Salaried,664,450051,Debt Consolidation,0,1
+3417,Diya Das,33,643417,Salaried,631,724750,Debt Consolidation,146720,0
+3418,Aadhya Das,32,337270,Salaried,641,406977,Home Renovation,107002,0
+3419,Aarohi Das,26,949409,Self-Employed,563,100000,Debt Consolidation,305715,1
+3420,Anika Das,23,393229,Self-Employed,624,369683,Car Purchase,82621,0
+3421,Myra Das,46,577833,Salaried,663,408532,Medical,191324,1
+3422,Sara Das,45,679928,Salaried,697,100000,Business Expansion,95883,1
+3423,Aisha Das,43,1264418,Self-Employed,605,1781807,Education,0,0
+3424,Aarav Mehta,36,344205,Salaried,640,175123,Home Renovation,0,1
+3425,Vivaan Mehta,34,424975,Contract,594,404847,Car Purchase,82598,0
+3426,Aditya Mehta,50,560351,Salaried,642,257501,Business Expansion,57290,1
+3427,Vihaan Mehta,37,612679,Salaried,632,354276,Home Renovation,231827,1
+3428,Arjun Mehta,32,643358,Salaried,633,100000,Medical,39341,1
+3429,Sai Mehta,21,388284,Self-Employed,617,472916,Car Purchase,114218,0
+3430,Atharv Mehta,33,1276357,Self-Employed,632,811730,Medical,0,1
+3431,Ishaan Mehta,45,461842,Self-Employed,694,337804,Education,287682,0
+3432,Ananya Mehta,21,522722,Unemployed,518,100702,Education,12787,0
+3433,Diya Mehta,29,897081,Contract,564,1924602,Medical,254720,0
+3434,Aadhya Mehta,40,539642,Salaried,718,965658,Car Purchase,223026,0
+3435,Aarohi Mehta,36,627169,Salaried,639,900409,Debt Consolidation,157381,0
+3436,Anika Mehta,46,588794,Salaried,674,100000,Business Expansion,376094,0
+3437,Myra Mehta,44,776176,Salaried,634,912718,Business Expansion,168539,0
+3438,Sara Mehta,38,629813,Salaried,706,881371,Car Purchase,149085,0
+3439,Aisha Mehta,32,699733,Salaried,693,817384,Business Expansion,272869,0
+3440,Aarav Bose,35,395204,Salaried,705,100000,Home Renovation,0,1
+3441,Vivaan Bose,33,150000,Unemployed,601,370387,Business Expansion,39128,0
+3442,Aditya Bose,28,219627,Unemployed,661,195144,Education,14950,0
+3443,Vihaan Bose,28,766766,Salaried,626,100000,Business Expansion,21699,1
+3444,Arjun Bose,21,830956,Salaried,668,1139220,Car Purchase,447992,0
+3445,Sai Bose,47,380752,Salaried,743,307986,Car Purchase,0,1
+3446,Atharv Bose,24,423971,Salaried,675,583506,Education,121080,0
+3447,Ishaan Bose,45,703053,Contract,615,1341361,Car Purchase,344591,0
+3448,Ananya Bose,34,387822,Salaried,608,100000,Business Expansion,71112,1
+3449,Diya Bose,50,582913,Salaried,770,558522,Car Purchase,264909,1
+3450,Aadhya Bose,22,254965,Contract,557,675329,Debt Consolidation,43424,0
+3451,Aarohi Bose,39,348550,Contract,605,359670,Debt Consolidation,61150,0
+3452,Anika Bose,30,428690,Contract,674,441192,Car Purchase,95835,0
+3453,Myra Bose,30,646539,Salaried,646,808267,Business Expansion,302674,0
+3454,Sara Bose,46,536929,Salaried,736,1126805,Debt Consolidation,85305,0
+3455,Aisha Bose,22,239435,Unemployed,566,296538,Car Purchase,107661,0
+3456,Aarav Nair,26,418205,Salaried,645,134887,Car Purchase,98763,1
+3457,Vivaan Nair,30,646168,Salaried,596,333571,Education,52578,1
+3458,Aditya Nair,33,374212,Salaried,699,791965,Debt Consolidation,128985,0
+3459,Vihaan Nair,28,156574,Contract,578,320006,Medical,20026,0
+3460,Arjun Nair,29,438538,Salaried,685,400259,Car Purchase,74517,1
+3461,Sai Nair,32,381711,Salaried,650,526951,Debt Consolidation,160733,0
+3462,Atharv Nair,40,526697,Contract,612,955914,Debt Consolidation,182980,0
+3463,Ishaan Nair,28,393139,Self-Employed,674,107603,Education,81319,1
+3464,Ananya Nair,41,431512,Contract,618,346918,Medical,141832,0
+3465,Diya Nair,30,291332,Salaried,666,100000,Home Renovation,61795,1
+3466,Aadhya Nair,22,654773,Salaried,718,629424,Home Renovation,147420,1
+3467,Aarohi Nair,39,572060,Salaried,668,472278,Education,83288,1
+3468,Anika Nair,21,417907,Salaried,695,830457,Education,19118,0
+3469,Myra Nair,32,636932,Self-Employed,640,492275,Business Expansion,135580,1
+3470,Sara Nair,31,451497,Salaried,763,604470,Car Purchase,281464,0
+3471,Aisha Nair,40,554831,Self-Employed,690,776901,Business Expansion,189066,0
+3472,Aarav Rao,40,284754,Salaried,683,170767,Business Expansion,161731,1
+3473,Vivaan Rao,45,150000,Unemployed,509,100000,Car Purchase,9023,0
+3474,Aditya Rao,28,633824,Salaried,580,1056772,Education,121619,0
+3475,Vihaan Rao,49,642176,Salaried,671,809684,Car Purchase,107992,0
+3476,Arjun Rao,31,1022139,Salaried,727,1050341,Business Expansion,280994,1
+3477,Sai Rao,36,246983,Contract,676,337002,Car Purchase,55125,0
+3478,Atharv Rao,32,454969,Self-Employed,583,461618,Home Renovation,237731,0
+3479,Ishaan Rao,25,819479,Self-Employed,601,585887,Car Purchase,389752,0
+3480,Ananya Rao,45,712847,Salaried,673,872469,Business Expansion,214020,0
+3481,Diya Rao,31,437588,Contract,566,465071,Business Expansion,188909,0
+3482,Aadhya Rao,40,564587,Salaried,698,605549,Education,219269,0
+3483,Aarohi Rao,32,944033,Self-Employed,660,1809081,Car Purchase,410984,0
+3484,Anika Rao,27,150000,Unemployed,566,100000,Education,29400,0
+3485,Myra Rao,33,437223,Salaried,596,563740,Debt Consolidation,126669,0
+3486,Sara Rao,37,425332,Salaried,719,521387,Car Purchase,0,1
+3487,Aisha Rao,35,735779,Self-Employed,608,1504253,Debt Consolidation,150856,0
+3488,Aarav Mishra,37,479913,Salaried,614,100000,Medical,75158,1
+3489,Vivaan Mishra,33,269225,Contract,592,500789,Education,85609,0
+3490,Aditya Mishra,34,557259,Salaried,570,960388,Home Renovation,5961,0
+3491,Vihaan Mishra,30,373117,Salaried,710,100000,Car Purchase,34922,1
+3492,Arjun Mishra,24,2232952,Self-Employed,623,3000000,Car Purchase,493156,0
+3493,Sai Mishra,43,435931,Salaried,621,578735,Debt Consolidation,121149,0
+3494,Atharv Mishra,30,779302,Salaried,708,1711770,Business Expansion,34827,0
+3495,Ishaan Mishra,30,445944,Salaried,613,454492,Education,176111,0
+3496,Ananya Mishra,36,866022,Salaried,658,1816503,Home Renovation,76634,0
+3497,Diya Mishra,21,333012,Salaried,616,580618,Car Purchase,99057,0
+3498,Aadhya Mishra,42,334822,Salaried,666,155451,Medical,0,1
+3499,Aarohi Mishra,27,357289,Salaried,644,660910,Education,80074,0
+3500,Anika Mishra,44,1034212,Self-Employed,668,115428,Debt Consolidation,135850,1
+3501,Myra Mishra,26,797693,Salaried,646,100000,Debt Consolidation,152177,1
+3502,Sara Mishra,23,605783,Salaried,735,883700,Business Expansion,204412,0
+3503,Aisha Mishra,33,766824,Salaried,680,884027,Debt Consolidation,250397,0
+3504,Aarav Chopra,44,1105680,Self-Employed,718,913038,Home Renovation,116104,1
+3505,Vivaan Chopra,41,471352,Salaried,718,370236,Medical,71719,1
+3506,Aditya Chopra,34,566316,Salaried,686,562531,Education,197880,1
+3507,Vihaan Chopra,41,746688,Salaried,709,1040910,Debt Consolidation,177548,0
+3508,Arjun Chopra,24,412646,Salaried,700,427121,Medical,55522,1
+3509,Sai Chopra,34,287566,Self-Employed,634,724004,Home Renovation,84125,0
+3510,Atharv Chopra,48,1009770,Self-Employed,622,2104237,Car Purchase,430422,0
+3511,Ishaan Chopra,35,290924,Salaried,664,254296,Business Expansion,78353,0
+3512,Ananya Chopra,33,423297,Self-Employed,636,655497,Debt Consolidation,22509,0
+3513,Diya Chopra,45,386265,Contract,618,356637,Business Expansion,125664,0
+3514,Aadhya Chopra,49,606501,Salaried,699,370094,Debt Consolidation,121269,1
+3515,Aarohi Chopra,21,541350,Salaried,584,364333,Business Expansion,92758,1
+3516,Anika Chopra,37,740289,Contract,668,484851,Business Expansion,298445,0
+3517,Myra Chopra,29,976502,Self-Employed,654,976770,Debt Consolidation,329248,0
+3518,Sara Chopra,34,445731,Salaried,584,701131,Business Expansion,0,0
+3519,Aisha Chopra,30,444432,Salaried,627,240836,Business Expansion,20057,1
+3520,Aarav Ghosh,38,723613,Self-Employed,639,1166123,Medical,137456,0
+3521,Vivaan Ghosh,33,749743,Salaried,621,618288,Business Expansion,134609,1
+3522,Aditya Ghosh,35,255942,Unemployed,579,107707,Business Expansion,0,0
+3523,Vihaan Ghosh,24,484240,Salaried,630,244447,Home Renovation,43114,1
+3524,Arjun Ghosh,39,313328,Salaried,681,437946,Home Renovation,132849,0
+3525,Sai Ghosh,41,440203,Self-Employed,672,546315,Debt Consolidation,102274,0
+3526,Atharv Ghosh,37,775499,Self-Employed,647,415055,Home Renovation,272471,1
+3527,Ishaan Ghosh,43,420162,Self-Employed,666,468542,Education,188031,0
+3528,Ananya Ghosh,24,630179,Contract,532,461716,Home Renovation,197736,0
+3529,Diya Ghosh,36,446708,Salaried,637,164206,Car Purchase,133317,1
+3530,Aadhya Ghosh,46,965763,Self-Employed,662,582240,Car Purchase,332430,1
+3531,Aarohi Ghosh,33,255114,Salaried,569,100000,Medical,59838,1
+3532,Anika Ghosh,33,913075,Self-Employed,712,232218,Car Purchase,127666,1
+3533,Myra Ghosh,40,453590,Salaried,658,1052682,Business Expansion,98208,0
+3534,Sara Ghosh,34,599643,Salaried,647,897309,Medical,135460,0
+3535,Aisha Ghosh,30,370295,Contract,612,527681,Debt Consolidation,149000,0
+3536,Aarav Sharma,42,2836663,Self-Employed,642,3000000,Debt Consolidation,252937,0
+3537,Vivaan Sharma,36,167541,Unemployed,619,142146,Car Purchase,53751,0
+3538,Aditya Sharma,38,659927,Salaried,671,1189455,Medical,128678,0
+3539,Vihaan Sharma,45,944984,Self-Employed,654,1273817,Business Expansion,211928,0
+3540,Arjun Sharma,32,615284,Salaried,691,423862,Car Purchase,122631,1
+3541,Sai Sharma,27,795890,Salaried,542,2017207,Education,73061,0
+3542,Atharv Sharma,33,844662,Salaried,715,1012111,Car Purchase,202547,1
+3543,Ishaan Sharma,24,685936,Contract,534,1166920,Debt Consolidation,263525,0
+3544,Ananya Sharma,37,252595,Salaried,738,143286,Car Purchase,94562,1
+3545,Diya Sharma,21,1098329,Salaried,620,1854859,Debt Consolidation,120977,0
+3546,Aadhya Sharma,33,842572,Salaried,635,1418177,Education,390603,0
+3547,Aarohi Sharma,26,502327,Salaried,637,356174,Medical,121438,1
+3548,Anika Sharma,21,380536,Self-Employed,624,433049,Car Purchase,24865,0
+3549,Myra Sharma,44,848522,Salaried,667,1232510,Home Renovation,89815,0
+3550,Sara Sharma,42,283284,Contract,645,591121,Debt Consolidation,124331,0
+3551,Aisha Sharma,38,1039993,Self-Employed,684,634525,Medical,274673,1
+3552,Aarav Verma,41,281624,Self-Employed,643,214561,Home Renovation,23284,1
+3553,Vivaan Verma,42,345489,Salaried,683,465620,Medical,106790,0
+3554,Aditya Verma,21,415720,Contract,536,231953,Medical,54026,0
+3555,Vihaan Verma,29,659874,Contract,642,100000,Home Renovation,205895,1
+3556,Arjun Verma,46,387846,Salaried,699,150466,Education,150727,1
+3557,Sai Verma,38,645633,Salaried,619,209552,Education,172042,1
+3558,Atharv Verma,25,947637,Salaried,616,665240,Debt Consolidation,304379,0
+3559,Ishaan Verma,35,500669,Salaried,687,429798,Education,132676,1
+3560,Ananya Verma,33,492671,Contract,624,181417,Medical,84314,1
+3561,Diya Verma,32,385110,Salaried,652,568922,Home Renovation,79670,0
+3562,Aadhya Verma,23,429932,Salaried,683,994453,Medical,145786,0
+3563,Aarohi Verma,29,188885,Unemployed,577,338543,Car Purchase,84209,0
+3564,Anika Verma,28,636822,Salaried,740,214068,Medical,304118,1
+3565,Myra Verma,35,888217,Salaried,651,1528669,Debt Consolidation,100242,0
+3566,Sara Verma,27,507243,Salaried,729,288656,Home Renovation,0,1
+3567,Aisha Verma,31,696610,Salaried,659,690718,Car Purchase,147859,0
+3568,Aarav Iyer,42,575441,Salaried,700,377521,Car Purchase,130061,1
+3569,Vivaan Iyer,22,524260,Salaried,627,672437,Home Renovation,179326,0
+3570,Aditya Iyer,44,388795,Contract,567,556261,Debt Consolidation,219888,0
+3571,Vihaan Iyer,56,972893,Salaried,771,266738,Education,188225,1
+3572,Arjun Iyer,41,502097,Salaried,688,603461,Car Purchase,35323,0
+3573,Sai Iyer,35,466427,Salaried,709,683509,Debt Consolidation,35795,0
+3574,Atharv Iyer,35,475538,Salaried,628,481941,Debt Consolidation,10525,1
+3575,Ishaan Iyer,32,532351,Contract,680,344130,Education,87759,1
+3576,Ananya Iyer,21,303401,Self-Employed,589,191972,Education,29720,1
+3577,Diya Iyer,30,322798,Self-Employed,615,407115,Business Expansion,113921,0
+3578,Aadhya Iyer,42,781273,Salaried,672,246498,Home Renovation,310522,1
+3579,Aarohi Iyer,32,630060,Salaried,617,271378,Debt Consolidation,114737,1
+3580,Anika Iyer,28,1158118,Self-Employed,624,828193,Home Renovation,216968,1
+3581,Myra Iyer,39,456146,Salaried,597,358092,Debt Consolidation,186150,0
+3582,Sara Iyer,33,756202,Salaried,640,215596,Car Purchase,410573,1
+3583,Aisha Iyer,33,700047,Salaried,610,619050,Debt Consolidation,118708,0
+3584,Aarav Kumar,38,186857,Salaried,659,368720,Car Purchase,41450,0
+3585,Vivaan Kumar,43,426741,Salaried,625,937461,Medical,181746,0
+3586,Aditya Kumar,43,1581091,Salaried,671,1407973,Medical,567315,1
+3587,Vihaan Kumar,41,572947,Salaried,678,220842,Education,194203,1
+3588,Arjun Kumar,23,527281,Salaried,598,100000,Car Purchase,101497,1
+3589,Sai Kumar,30,523899,Salaried,615,411095,Business Expansion,271888,0
+3590,Atharv Kumar,39,770652,Salaried,572,838661,Car Purchase,293311,0
+3591,Ishaan Kumar,32,900153,Salaried,721,899901,Car Purchase,23708,1
+3592,Ananya Kumar,28,712812,Contract,633,308512,Medical,219508,1
+3593,Diya Kumar,28,150000,Unemployed,647,274639,Car Purchase,23055,0
+3594,Aadhya Kumar,36,758355,Salaried,769,853600,Car Purchase,50645,1
+3595,Aarohi Kumar,26,642533,Salaried,595,1272502,Car Purchase,239850,0
+3596,Anika Kumar,34,984596,Self-Employed,570,1146329,Home Renovation,293062,0
+3597,Myra Kumar,34,467240,Contract,607,219383,Home Renovation,200832,0
+3598,Sara Kumar,27,897761,Salaried,565,1338448,Debt Consolidation,283954,0
+3599,Aisha Kumar,46,222586,Contract,679,149374,Home Renovation,70249,1
+3600,Aarav Patel,43,367755,Salaried,697,356195,Education,38909,1
+3601,Vivaan Patel,32,1430513,Self-Employed,605,825142,Education,369966,0
+3602,Aditya Patel,38,399731,Salaried,651,315281,Debt Consolidation,97475,1
+3603,Vihaan Patel,41,782062,Salaried,615,408148,Education,22874,1
+3604,Arjun Patel,30,546071,Salaried,640,431424,Education,77979,0
+3605,Sai Patel,32,455205,Salaried,638,100000,Business Expansion,132867,1
+3606,Atharv Patel,36,437781,Salaried,675,475240,Education,81348,1
+3607,Ishaan Patel,56,361473,Salaried,698,100000,Car Purchase,48532,1
+3608,Ananya Patel,39,621512,Contract,621,441370,Education,98351,0
+3609,Diya Patel,21,407799,Salaried,648,566611,Home Renovation,110651,0
+3610,Aadhya Patel,27,263957,Contract,566,415559,Debt Consolidation,131669,0
+3611,Aarohi Patel,29,503235,Salaried,595,482810,Medical,237177,0
+3612,Anika Patel,39,325195,Salaried,638,100000,Debt Consolidation,0,1
+3613,Myra Patel,34,386557,Self-Employed,674,100000,Education,78354,1
+3614,Sara Patel,46,386083,Contract,666,797600,Home Renovation,51977,0
+3615,Aisha Patel,39,435639,Salaried,681,502382,Car Purchase,0,1
+3616,Aarav Singh,33,473565,Salaried,627,529776,Medical,20707,1
+3617,Vivaan Singh,21,736114,Salaried,529,1012096,Business Expansion,150800,0
+3618,Aditya Singh,26,423488,Contract,616,639556,Debt Consolidation,82424,0
+3619,Vihaan Singh,33,478146,Salaried,637,604035,Car Purchase,51617,0
+3620,Arjun Singh,46,333051,Contract,605,306528,Education,166904,0
+3621,Sai Singh,35,450251,Salaried,686,580978,Business Expansion,198903,0
+3622,Atharv Singh,34,382808,Self-Employed,600,416356,Medical,68878,0
+3623,Ishaan Singh,22,1242339,Self-Employed,601,2499517,Home Renovation,0,0
+3624,Ananya Singh,48,204425,Self-Employed,690,325763,Education,61191,0
+3625,Diya Singh,41,372049,Salaried,666,261998,Education,110114,1
+3626,Aadhya Singh,30,339952,Self-Employed,635,171198,Business Expansion,48442,1
+3627,Aarohi Singh,27,397306,Self-Employed,618,301932,Home Renovation,79323,1
+3628,Anika Singh,33,610254,Salaried,612,606359,Debt Consolidation,194201,0
+3629,Myra Singh,25,503727,Contract,508,100000,Debt Consolidation,96618,0
+3630,Sara Singh,22,422424,Salaried,663,726977,Business Expansion,138587,0
+3631,Aisha Singh,28,1135408,Salaried,609,156719,Debt Consolidation,352119,1
+3632,Aarav Reddy,59,817193,Salaried,736,1248729,Car Purchase,428288,0
+3633,Vivaan Reddy,38,368151,Self-Employed,620,576761,Car Purchase,91168,0
+3634,Aditya Reddy,43,635681,Contract,650,1172710,Home Renovation,315462,0
+3635,Vihaan Reddy,30,587440,Contract,592,989384,Car Purchase,216118,0
+3636,Arjun Reddy,22,528315,Salaried,690,156139,Debt Consolidation,131681,1
+3637,Sai Reddy,27,764151,Salaried,685,1210174,Medical,95375,0
+3638,Atharv Reddy,32,517447,Salaried,637,679469,Medical,61026,0
+3639,Ishaan Reddy,37,571933,Salaried,635,433447,Home Renovation,157609,0
+3640,Ananya Reddy,22,343815,Salaried,708,689250,Car Purchase,71084,0
+3641,Diya Reddy,21,446868,Salaried,606,685986,Debt Consolidation,0,0
+3642,Aadhya Reddy,57,491355,Salaried,692,325779,Car Purchase,149154,1
+3643,Aarohi Reddy,24,434587,Contract,528,549436,Debt Consolidation,49451,0
+3644,Anika Reddy,41,733499,Self-Employed,618,892142,Home Renovation,196160,0
+3645,Myra Reddy,36,477158,Salaried,607,889448,Debt Consolidation,153752,0
+3646,Sara Reddy,38,162347,Contract,687,284374,Medical,49329,0
+3647,Aisha Reddy,44,464319,Salaried,635,512923,Car Purchase,215101,0
+3648,Aarav Gupta,25,684168,Salaried,654,570392,Home Renovation,204684,1
+3649,Vivaan Gupta,21,446497,Contract,603,275646,Debt Consolidation,170650,0
+3650,Aditya Gupta,36,1028505,Salaried,670,1300212,Education,154827,0
+3651,Vihaan Gupta,41,207999,Unemployed,660,172897,Business Expansion,18249,0
+3652,Arjun Gupta,39,610858,Self-Employed,613,480466,Home Renovation,225902,0
+3653,Sai Gupta,43,312330,Contract,626,431000,Medical,120079,0
+3654,Atharv Gupta,36,692550,Salaried,695,1485511,Home Renovation,267135,0
+3655,Ishaan Gupta,34,388621,Salaried,588,344300,Debt Consolidation,96975,0
+3656,Ananya Gupta,27,565038,Salaried,623,936316,Home Renovation,30737,0
+3657,Diya Gupta,26,502936,Salaried,715,910589,Business Expansion,189129,0
+3658,Aadhya Gupta,45,622643,Salaried,703,1033127,Education,94684,0
+3659,Aarohi Gupta,48,630559,Salaried,719,797892,Car Purchase,124678,1
+3660,Anika Gupta,21,347556,Salaried,643,597201,Education,77835,0
+3661,Myra Gupta,27,1231916,Self-Employed,529,225422,Education,302765,0
+3662,Sara Gupta,40,338304,Salaried,702,432680,Education,74137,1
+3663,Aisha Gupta,27,274776,Contract,611,213319,Business Expansion,88142,0
+3664,Aarav Das,31,638168,Salaried,629,100000,Medical,268939,1
+3665,Vivaan Das,21,597985,Self-Employed,617,630255,Business Expansion,267919,0
+3666,Aditya Das,33,675433,Salaried,669,251386,Debt Consolidation,385808,1
+3667,Vihaan Das,42,446671,Salaried,701,523491,Home Renovation,156550,0
+3668,Arjun Das,29,1017937,Self-Employed,653,454871,Medical,3362,1
+3669,Sai Das,34,1240547,Salaried,646,100000,Business Expansion,131064,1
+3670,Atharv Das,34,257758,Contract,623,177827,Home Renovation,115529,0
+3671,Ishaan Das,29,1258071,Self-Employed,598,2567713,Medical,284450,0
+3672,Ananya Das,40,451482,Self-Employed,639,100000,Medical,159152,1
+3673,Diya Das,33,629912,Salaried,727,992246,Business Expansion,191313,0
+3674,Aadhya Das,30,574108,Salaried,645,395899,Business Expansion,96715,1
+3675,Aarohi Das,42,622748,Self-Employed,684,1073843,Medical,125715,0
+3676,Anika Das,38,376049,Self-Employed,579,205635,Home Renovation,112490,0
+3677,Myra Das,38,590215,Salaried,654,818417,Car Purchase,117315,0
+3678,Sara Das,37,430889,Salaried,726,100000,Debt Consolidation,30317,1
+3679,Aisha Das,39,478391,Salaried,678,190340,Business Expansion,108598,1
+3680,Aarav Mehta,38,700737,Salaried,713,521822,Business Expansion,336320,1
+3681,Vivaan Mehta,27,510602,Salaried,625,551390,Education,105659,0
+3682,Aditya Mehta,37,850984,Self-Employed,672,415115,Home Renovation,184991,1
+3683,Vihaan Mehta,37,619072,Salaried,653,811905,Medical,117112,0
+3684,Arjun Mehta,36,486012,Salaried,617,569124,Business Expansion,111597,0
+3685,Sai Mehta,33,224137,Self-Employed,726,100000,Business Expansion,28144,1
+3686,Atharv Mehta,42,701551,Salaried,620,311373,Education,152111,1
+3687,Ishaan Mehta,38,506521,Salaried,719,508230,Car Purchase,105020,1
+3688,Ananya Mehta,32,724590,Salaried,655,100000,Debt Consolidation,150239,1
+3689,Diya Mehta,35,449683,Salaried,680,617554,Business Expansion,63869,0
+3690,Aadhya Mehta,34,522761,Salaried,737,1045618,Car Purchase,237589,0
+3691,Aarohi Mehta,48,263844,Contract,589,131620,Debt Consolidation,36935,1
+3692,Anika Mehta,24,683819,Salaried,634,664152,Medical,231076,0
+3693,Myra Mehta,27,617336,Self-Employed,605,372979,Car Purchase,164296,1
+3694,Sara Mehta,35,538908,Salaried,642,770070,Business Expansion,125596,0
+3695,Aisha Mehta,31,150000,Unemployed,643,240346,Business Expansion,0,0
+3696,Aarav Bose,39,310918,Salaried,678,448579,Education,368,1
+3697,Vivaan Bose,33,500148,Salaried,662,119076,Car Purchase,157509,1
+3698,Aditya Bose,25,884150,Salaried,542,1199110,Education,188007,0
+3699,Vihaan Bose,31,522269,Salaried,640,379129,Medical,166843,1
+3700,Arjun Bose,38,258513,Contract,625,100000,Medical,95465,0
+3701,Sai Bose,36,1021292,Salaried,660,1184410,Home Renovation,133171,1
+3702,Atharv Bose,42,590262,Contract,602,343897,Medical,145043,0
+3703,Ishaan Bose,41,534454,Self-Employed,601,100000,Home Renovation,213904,1
+3704,Ananya Bose,50,521274,Salaried,741,1098831,Medical,110402,0
+3705,Diya Bose,30,423703,Salaried,689,581851,Education,93258,0
+3706,Aadhya Bose,37,846869,Salaried,716,1592444,Medical,38166,0
+3707,Aarohi Bose,30,659877,Contract,580,1348009,Debt Consolidation,278050,0
+3708,Anika Bose,39,150000,Unemployed,593,158610,Debt Consolidation,20320,0
+3709,Myra Bose,34,369509,Self-Employed,656,422623,Medical,99607,0
+3710,Sara Bose,42,174189,Unemployed,523,293304,Education,39884,0
+3711,Aisha Bose,27,574780,Salaried,661,958045,Debt Consolidation,58776,0
+3712,Aarav Nair,23,449843,Salaried,582,615899,Home Renovation,44706,0
+3713,Vivaan Nair,40,382989,Salaried,739,272323,Business Expansion,113039,1
+3714,Aditya Nair,27,620762,Self-Employed,589,796648,Debt Consolidation,113017,0
+3715,Vihaan Nair,35,197365,Unemployed,569,276546,Business Expansion,47810,0
+3716,Arjun Nair,50,994975,Salaried,629,760193,Debt Consolidation,553257,0
+3717,Sai Nair,36,328988,Self-Employed,578,557982,Debt Consolidation,156477,0
+3718,Atharv Nair,31,208832,Contract,525,103826,Car Purchase,63499,0
+3719,Ishaan Nair,23,1163651,Salaried,640,1091083,Medical,264652,0
+3720,Ananya Nair,37,694679,Salaried,650,507039,Car Purchase,77018,1
+3721,Diya Nair,49,605048,Salaried,737,852552,Medical,209898,0
+3722,Aadhya Nair,24,741062,Self-Employed,581,1408247,Education,100500,0
+3723,Aarohi Nair,34,387151,Salaried,701,477436,Medical,17584,1
+3724,Anika Nair,35,732922,Self-Employed,587,100000,Medical,215557,1
+3725,Myra Nair,27,1074824,Self-Employed,583,1023392,Car Purchase,290529,0
+3726,Sara Nair,36,522261,Self-Employed,638,604377,Car Purchase,140258,0
+3727,Aisha Nair,33,476014,Salaried,645,368161,Business Expansion,96077,1
+3728,Aarav Rao,28,1148258,Self-Employed,667,163912,Business Expansion,509007,1
+3729,Vivaan Rao,35,867846,Self-Employed,593,1006759,Car Purchase,16185,0
+3730,Aditya Rao,42,397953,Salaried,712,894216,Education,103202,0
+3731,Vihaan Rao,42,790848,Salaried,718,454699,Debt Consolidation,258710,1
+3732,Arjun Rao,39,317705,Contract,582,369890,Business Expansion,23802,0
+3733,Sai Rao,25,1154303,Self-Employed,603,746159,Home Renovation,244009,0
+3734,Atharv Rao,40,584234,Salaried,638,100000,Business Expansion,92741,1
+3735,Ishaan Rao,32,198504,Unemployed,579,344447,Business Expansion,65960,0
+3736,Ananya Rao,45,557299,Contract,637,143388,Car Purchase,145372,1
+3737,Diya Rao,26,466129,Salaried,586,912040,Education,236728,0
+3738,Aadhya Rao,26,573575,Salaried,640,100000,Medical,193529,1
+3739,Aarohi Rao,39,641031,Salaried,717,586133,Business Expansion,89728,1
+3740,Anika Rao,31,310591,Salaried,709,100000,Debt Consolidation,101350,1
+3741,Myra Rao,32,636972,Self-Employed,626,262661,Education,181019,1
+3742,Sara Rao,48,1438580,Contract,587,2225174,Home Renovation,641198,0
+3743,Aisha Rao,33,721369,Salaried,603,757915,Car Purchase,67797,0
+3744,Aarav Mishra,34,210753,Contract,651,329421,Home Renovation,10806,0
+3745,Vivaan Mishra,52,207334,Unemployed,621,100000,Medical,96253,0
+3746,Aditya Mishra,50,585976,Salaried,639,100000,Debt Consolidation,332616,1
+3747,Vihaan Mishra,30,712164,Salaried,698,1142033,Car Purchase,290036,0
+3748,Arjun Mishra,23,434229,Salaried,610,716722,Debt Consolidation,126631,0
+3749,Sai Mishra,35,2259512,Self-Employed,584,2827373,Education,847264,0
+3750,Atharv Mishra,26,696759,Salaried,588,329214,Education,166695,0
+3751,Ishaan Mishra,28,602639,Self-Employed,634,588999,Medical,255042,0
+3752,Ananya Mishra,44,446635,Salaried,597,520479,Education,35020,0
+3753,Diya Mishra,23,545078,Salaried,654,779939,Debt Consolidation,147019,0
+3754,Aadhya Mishra,21,410356,Salaried,655,668503,Education,81493,0
+3755,Aarohi Mishra,29,388834,Contract,627,223830,Education,102079,0
+3756,Anika Mishra,33,1095226,Self-Employed,677,362777,Medical,269223,1
+3757,Myra Mishra,26,513359,Salaried,593,656202,Medical,57133,0
+3758,Sara Mishra,49,433531,Salaried,627,355801,Debt Consolidation,175792,0
+3759,Aisha Mishra,21,434619,Salaried,569,550052,Debt Consolidation,79659,0
+3760,Aarav Chopra,34,425989,Salaried,641,387948,Home Renovation,37158,1
+3761,Vivaan Chopra,35,514617,Salaried,677,373278,Home Renovation,75165,1
+3762,Aditya Chopra,50,549516,Salaried,728,879544,Education,181453,0
+3763,Vihaan Chopra,44,595516,Self-Employed,674,1432845,Business Expansion,161334,0
+3764,Arjun Chopra,32,516928,Salaried,626,100519,Home Renovation,74315,1
+3765,Sai Chopra,35,327989,Salaried,595,345902,Education,89448,0
+3766,Atharv Chopra,37,326290,Self-Employed,595,189660,Business Expansion,121953,0
+3767,Ishaan Chopra,34,746814,Salaried,725,100000,Home Renovation,179829,1
+3768,Ananya Chopra,29,348637,Salaried,641,256715,Education,116270,0
+3769,Diya Chopra,43,515427,Self-Employed,685,218458,Home Renovation,91797,1
+3770,Aadhya Chopra,32,633961,Salaried,670,672767,Business Expansion,130285,0
+3771,Aarohi Chopra,47,896216,Salaried,662,636328,Business Expansion,478616,0
+3772,Anika Chopra,25,679728,Salaried,669,320405,Business Expansion,195647,1
+3773,Myra Chopra,40,885109,Salaried,606,842960,Home Renovation,374257,0
+3774,Sara Chopra,37,671353,Self-Employed,634,1158143,Business Expansion,91234,0
+3775,Aisha Chopra,30,3018720,Self-Employed,670,3000000,Medical,443925,1
+3776,Aarav Ghosh,31,686286,Salaried,645,100000,Business Expansion,22445,1
+3777,Vivaan Ghosh,35,608010,Salaried,624,911772,Business Expansion,259567,0
+3778,Aditya Ghosh,34,709421,Salaried,722,538997,Debt Consolidation,92574,1
+3779,Vihaan Ghosh,41,594636,Contract,626,382780,Car Purchase,278944,0
+3780,Arjun Ghosh,31,272719,Salaried,671,366278,Debt Consolidation,42724,0
+3781,Sai Ghosh,42,672689,Self-Employed,648,1152637,Education,181667,0
+3782,Atharv Ghosh,30,701141,Salaried,645,513534,Debt Consolidation,352692,0
+3783,Ishaan Ghosh,35,752078,Salaried,662,494867,Education,40040,1
+3784,Ananya Ghosh,40,781962,Salaried,619,546668,Education,132413,1
+3785,Diya Ghosh,21,1046044,Self-Employed,603,470874,Home Renovation,392768,1
+3786,Aadhya Ghosh,34,408710,Salaried,584,630787,Education,172475,0
+3787,Aarohi Ghosh,50,570279,Salaried,652,100000,Education,132952,1
+3788,Anika Ghosh,35,271478,Salaried,665,756933,Education,45392,0
+3789,Myra Ghosh,39,633209,Self-Employed,654,858420,Car Purchase,112044,0
+3790,Sara Ghosh,52,594238,Salaried,722,351094,Car Purchase,436955,0
+3791,Aisha Ghosh,40,333492,Unemployed,586,393235,Education,76787,0
+3792,Aarav Sharma,32,499434,Contract,620,630923,Education,150158,0
+3793,Vivaan Sharma,33,414615,Contract,625,762880,Medical,148779,0
+3794,Aditya Sharma,24,818493,Salaried,642,558800,Home Renovation,213055,1
+3795,Vihaan Sharma,26,393455,Salaried,699,258421,Car Purchase,18146,1
+3796,Arjun Sharma,44,688320,Contract,719,631608,Home Renovation,213786,1
+3797,Sai Sharma,35,187535,Contract,630,100000,Debt Consolidation,89479,0
+3798,Atharv Sharma,41,237626,Unemployed,664,287368,Home Renovation,38229,0
+3799,Ishaan Sharma,43,841493,Salaried,696,634609,Business Expansion,187428,1
+3800,Ananya Sharma,21,459337,Self-Employed,606,581308,Business Expansion,137003,0
+3801,Diya Sharma,29,544467,Salaried,657,697853,Business Expansion,169802,0
+3802,Aadhya Sharma,39,458397,Self-Employed,676,318826,Education,105418,1
+3803,Aarohi Sharma,31,380373,Salaried,689,100000,Home Renovation,45354,1
+3804,Anika Sharma,28,270996,Contract,664,254829,Education,72472,0
+3805,Myra Sharma,37,511636,Self-Employed,657,543592,Debt Consolidation,220385,0
+3806,Sara Sharma,36,150000,Unemployed,609,112389,Medical,46784,0
+3807,Aisha Sharma,34,435689,Self-Employed,582,253831,Education,250996,0
+3808,Aarav Verma,22,730932,Self-Employed,537,997307,Car Purchase,156293,0
+3809,Vivaan Verma,38,378285,Salaried,709,470021,Home Renovation,129112,0
+3810,Aditya Verma,44,637419,Salaried,656,125651,Home Renovation,107063,1
+3811,Vihaan Verma,55,318561,Salaried,637,700267,Education,31475,0
+3812,Arjun Verma,37,328159,Salaried,592,384747,Debt Consolidation,133386,0
+3813,Sai Verma,36,464322,Contract,628,369558,Debt Consolidation,204495,0
+3814,Atharv Verma,25,1338334,Self-Employed,606,2286837,Education,528908,0
+3815,Ishaan Verma,29,563540,Self-Employed,644,625699,Education,246606,0
+3816,Ananya Verma,41,509657,Self-Employed,720,604056,Car Purchase,154100,0
+3817,Diya Verma,23,701268,Self-Employed,619,1037571,Home Renovation,89784,0
+3818,Aadhya Verma,42,338995,Salaried,675,100000,Car Purchase,122795,1
+3819,Aarohi Verma,41,642726,Self-Employed,678,1255579,Car Purchase,190554,0
+3820,Anika Verma,28,402985,Salaried,659,202147,Education,122817,1
+3821,Myra Verma,46,288146,Contract,714,530207,Home Renovation,45030,0
+3822,Sara Verma,35,339381,Contract,540,618150,Debt Consolidation,53815,0
+3823,Aisha Verma,34,2007238,Self-Employed,619,2779853,Medical,287536,0
+3824,Aarav Iyer,38,742866,Self-Employed,665,278578,Business Expansion,264946,0
+3825,Vivaan Iyer,26,968718,Salaried,655,459496,Car Purchase,0,1
+3826,Aditya Iyer,38,504091,Self-Employed,597,838532,Car Purchase,33636,0
+3827,Vihaan Iyer,39,340859,Salaried,737,467695,Business Expansion,114184,0
+3828,Arjun Iyer,40,521528,Salaried,626,549364,Education,45115,0
+3829,Sai Iyer,29,660013,Contract,657,824579,Education,253476,0
+3830,Atharv Iyer,26,616767,Salaried,563,707564,Debt Consolidation,240756,0
+3831,Ishaan Iyer,30,965881,Salaried,673,994567,Education,314692,0
+3832,Ananya Iyer,33,624207,Salaried,618,344939,Home Renovation,43513,1
+3833,Diya Iyer,30,260283,Salaried,612,120071,Debt Consolidation,56872,1
+3834,Aadhya Iyer,48,643081,Salaried,651,1305088,Car Purchase,137810,0
+3835,Aarohi Iyer,33,775262,Salaried,614,703417,Business Expansion,155547,0
+3836,Anika Iyer,32,525700,Salaried,658,944824,Debt Consolidation,189253,0
+3837,Myra Iyer,36,435010,Self-Employed,676,612499,Medical,160672,0
+3838,Sara Iyer,46,156357,Unemployed,632,100000,Debt Consolidation,19914,0
+3839,Aisha Iyer,27,1013189,Self-Employed,662,846069,Medical,249885,1
+3840,Aarav Kumar,21,405684,Salaried,662,740544,Business Expansion,149483,0
+3841,Vivaan Kumar,43,875964,Self-Employed,646,1458794,Home Renovation,150420,0
+3842,Aditya Kumar,24,421085,Salaried,703,349008,Home Renovation,112047,1
+3843,Vihaan Kumar,27,511457,Salaried,638,100000,Medical,0,1
+3844,Arjun Kumar,41,317384,Salaried,613,100000,Debt Consolidation,71860,1
+3845,Sai Kumar,46,661888,Salaried,651,904815,Medical,173075,0
+3846,Atharv Kumar,35,924927,Salaried,657,1382099,Business Expansion,478962,0
+3847,Ishaan Kumar,27,762162,Self-Employed,612,702002,Education,429566,0
+3848,Ananya Kumar,25,475316,Contract,624,289797,Education,196560,0
+3849,Diya Kumar,21,831234,Salaried,618,300155,Debt Consolidation,558009,0
+3850,Aadhya Kumar,27,629127,Salaried,581,874614,Home Renovation,87597,0
+3851,Aarohi Kumar,21,512392,Salaried,593,845229,Education,192314,0
+3852,Anika Kumar,25,600131,Contract,575,931496,Medical,0,0
+3853,Myra Kumar,26,762020,Self-Employed,645,1031276,Education,120587,0
+3854,Sara Kumar,39,477145,Contract,598,466038,Business Expansion,217172,0
+3855,Aisha Kumar,33,481228,Salaried,652,594657,Debt Consolidation,149780,0
+3856,Aarav Patel,25,766799,Salaried,635,439438,Debt Consolidation,77692,1
+3857,Vivaan Patel,43,258200,Salaried,633,118976,Debt Consolidation,0,1
+3858,Aditya Patel,38,671698,Salaried,618,518524,Business Expansion,169349,0
+3859,Vihaan Patel,31,557665,Salaried,549,172604,Home Renovation,97984,0
+3860,Arjun Patel,40,602362,Salaried,653,616384,Medical,128209,1
+3861,Sai Patel,29,514801,Salaried,546,576199,Home Renovation,196108,0
+3862,Atharv Patel,33,658153,Salaried,612,881859,Education,132139,0
+3863,Ishaan Patel,38,421062,Salaried,660,345567,Car Purchase,119146,1
+3864,Ananya Patel,26,553218,Salaried,672,936750,Business Expansion,0,0
+3865,Diya Patel,37,674935,Salaried,645,1258911,Home Renovation,244176,0
+3866,Aadhya Patel,33,413084,Salaried,668,490694,Car Purchase,182636,0
+3867,Aarohi Patel,28,264362,Contract,601,273816,Education,37964,0
+3868,Anika Patel,27,532621,Salaried,652,254460,Car Purchase,195402,1
+3869,Myra Patel,40,553931,Salaried,750,926550,Education,247049,0
+3870,Sara Patel,48,484368,Contract,634,143113,Home Renovation,195723,0
+3871,Aisha Patel,46,858041,Salaried,757,822368,Car Purchase,205503,1
+3872,Aarav Singh,47,559927,Salaried,681,859005,Car Purchase,155948,0
+3873,Vivaan Singh,30,367839,Salaried,661,174380,Car Purchase,202471,1
+3874,Aditya Singh,29,344567,Salaried,650,601914,Car Purchase,88554,0
+3875,Vihaan Singh,35,685810,Salaried,681,740735,Business Expansion,274698,0
+3876,Arjun Singh,46,502537,Salaried,680,263317,Car Purchase,258098,1
+3877,Sai Singh,40,769069,Contract,642,1925135,Home Renovation,143654,0
+3878,Atharv Singh,27,661013,Salaried,660,1114554,Home Renovation,221571,0
+3879,Ishaan Singh,38,456340,Salaried,651,466747,Business Expansion,228661,0
+3880,Ananya Singh,33,532053,Self-Employed,690,188131,Medical,64265,1
+3881,Diya Singh,39,219626,Contract,618,334339,Education,53905,0
+3882,Aadhya Singh,51,587459,Contract,639,1323627,Debt Consolidation,295139,0
+3883,Aarohi Singh,28,521393,Salaried,629,178995,Medical,163678,1
+3884,Anika Singh,27,380773,Unemployed,550,649162,Home Renovation,50381,0
+3885,Myra Singh,36,546508,Salaried,639,631120,Car Purchase,127604,0
+3886,Sara Singh,61,689214,Salaried,696,1097304,Home Renovation,177234,0
+3887,Aisha Singh,32,746750,Salaried,639,995027,Home Renovation,232620,0
+3888,Aarav Reddy,40,762728,Salaried,684,842242,Car Purchase,199965,0
+3889,Vivaan Reddy,33,511404,Salaried,665,369249,Education,229208,0
+3890,Aditya Reddy,25,551054,Salaried,631,637262,Car Purchase,176486,0
+3891,Vihaan Reddy,38,298177,Contract,541,100000,Home Renovation,88535,0
+3892,Arjun Reddy,32,655837,Salaried,665,248993,Car Purchase,123586,1
+3893,Sai Reddy,36,371853,Self-Employed,739,353422,Medical,65243,1
+3894,Atharv Reddy,35,225538,Self-Employed,691,388300,Debt Consolidation,66832,0
+3895,Ishaan Reddy,42,632711,Salaried,648,1138540,Education,122492,0
+3896,Ananya Reddy,31,714583,Salaried,548,1304608,Business Expansion,132044,0
+3897,Diya Reddy,38,251194,Contract,657,174730,Medical,0,1
+3898,Aadhya Reddy,33,609367,Salaried,736,721093,Medical,53010,1
+3899,Aarohi Reddy,32,572010,Salaried,639,310788,Business Expansion,139041,1
+3900,Anika Reddy,28,262347,Contract,500,332746,Home Renovation,37585,0
+3901,Myra Reddy,37,234806,Contract,626,296212,Medical,1477,0
+3902,Sara Reddy,52,517983,Salaried,686,829430,Medical,117305,0
+3903,Aisha Reddy,40,320581,Salaried,758,239511,Home Renovation,55874,1
+3904,Aarav Gupta,51,574942,Salaried,724,529211,Business Expansion,87015,1
+3905,Vivaan Gupta,31,392611,Contract,545,100000,Car Purchase,79287,0
+3906,Aditya Gupta,21,748160,Salaried,693,881617,Education,341288,0
+3907,Vihaan Gupta,45,375887,Contract,637,373501,Medical,5398,0
+3908,Arjun Gupta,40,554365,Salaried,636,478053,Business Expansion,99512,1
+3909,Sai Gupta,48,394345,Salaried,645,349970,Education,95260,1
+3910,Atharv Gupta,21,487600,Salaried,626,180087,Education,223512,1
+3911,Ishaan Gupta,37,245325,Self-Employed,615,295252,Debt Consolidation,106687,0
+3912,Ananya Gupta,38,399171,Salaried,665,265048,Education,164704,1
+3913,Diya Gupta,40,611881,Salaried,626,551246,Education,1066,1
+3914,Aadhya Gupta,30,229909,Contract,621,490110,Business Expansion,45461,0
+3915,Aarohi Gupta,25,380107,Self-Employed,617,429106,Car Purchase,53876,0
+3916,Anika Gupta,26,438651,Contract,614,574741,Car Purchase,184993,0
+3917,Myra Gupta,37,431717,Salaried,671,514805,Home Renovation,84361,0
+3918,Sara Gupta,35,486458,Contract,643,193052,Education,260609,0
+3919,Aisha Gupta,34,505311,Salaried,712,410242,Education,140506,1
+3920,Aarav Das,30,723232,Self-Employed,572,162819,Home Renovation,200495,1
+3921,Vivaan Das,36,434401,Salaried,611,279914,Business Expansion,107223,1
+3922,Aditya Das,40,470884,Salaried,736,840924,Car Purchase,141819,0
+3923,Vihaan Das,42,869460,Self-Employed,624,1199505,Debt Consolidation,0,0
+3924,Arjun Das,39,503489,Salaried,686,269883,Home Renovation,48865,1
+3925,Sai Das,39,484925,Salaried,656,625115,Car Purchase,94021,0
+3926,Atharv Das,39,827955,Self-Employed,739,323640,Education,224967,1
+3927,Ishaan Das,34,313492,Contract,724,421578,Medical,58025,0
+3928,Ananya Das,29,385934,Contract,631,494108,Education,122190,0
+3929,Diya Das,40,604814,Salaried,612,1136877,Medical,0,0
+3930,Aadhya Das,30,1185206,Self-Employed,693,1425756,Debt Consolidation,184360,0
+3931,Aarohi Das,36,470415,Salaried,738,100000,Education,93005,1
+3932,Anika Das,30,739573,Contract,595,721599,Car Purchase,208812,0
+3933,Myra Das,26,586932,Salaried,699,472313,Business Expansion,19360,1
+3934,Sara Das,45,508060,Salaried,687,552501,Car Purchase,147704,1
+3935,Aisha Das,39,878302,Salaried,688,872277,Debt Consolidation,94313,1
+3936,Aarav Mehta,45,809250,Self-Employed,643,445078,Car Purchase,17245,1
+3937,Vivaan Mehta,32,517113,Salaried,614,958788,Car Purchase,222059,0
+3938,Aditya Mehta,32,660538,Salaried,625,979674,Car Purchase,334628,0
+3939,Vihaan Mehta,43,399033,Unemployed,620,150928,Home Renovation,121706,0
+3940,Arjun Mehta,33,627112,Salaried,603,402774,Home Renovation,269294,0
+3941,Sai Mehta,37,346765,Salaried,657,450578,Business Expansion,30957,0
+3942,Atharv Mehta,47,782267,Self-Employed,638,904422,Debt Consolidation,424066,0
+3943,Ishaan Mehta,25,868643,Salaried,618,608846,Education,361835,0
+3944,Ananya Mehta,28,440572,Salaried,714,704101,Medical,155689,0
+3945,Diya Mehta,36,367299,Salaried,651,506457,Car Purchase,46715,0
+3946,Aadhya Mehta,40,683883,Salaried,682,343223,Education,39602,1
+3947,Aarohi Mehta,33,520343,Salaried,641,515773,Car Purchase,195728,0
+3948,Anika Mehta,32,501435,Self-Employed,637,424925,Home Renovation,57496,1
+3949,Myra Mehta,30,982754,Self-Employed,625,1944263,Debt Consolidation,412236,0
+3950,Sara Mehta,21,413776,Salaried,633,564582,Education,146726,0
+3951,Aisha Mehta,32,482127,Salaried,623,502617,Business Expansion,170340,0
+3952,Aarav Bose,32,621205,Self-Employed,629,680980,Car Purchase,73976,0
+3953,Vivaan Bose,37,837994,Salaried,664,655629,Car Purchase,140237,1
+3954,Aditya Bose,41,1029440,Contract,534,870713,Debt Consolidation,328388,0
+3955,Vihaan Bose,49,546409,Salaried,650,514079,Education,22688,1
+3956,Arjun Bose,28,641866,Salaried,685,345168,Business Expansion,228353,1
+3957,Sai Bose,32,620432,Salaried,695,906229,Medical,34884,1
+3958,Atharv Bose,21,150000,Unemployed,551,223432,Car Purchase,52171,0
+3959,Ishaan Bose,42,665495,Salaried,696,100000,Business Expansion,271910,1
+3960,Ananya Bose,36,439799,Salaried,611,100000,Home Renovation,110862,1
+3961,Diya Bose,31,561238,Salaried,683,1171009,Education,222078,0
+3962,Aadhya Bose,21,356015,Contract,608,293585,Education,42924,0
+3963,Aarohi Bose,21,907809,Self-Employed,597,1384196,Debt Consolidation,229135,0
+3964,Anika Bose,35,991619,Self-Employed,603,1374375,Medical,85226,0
+3965,Myra Bose,27,634081,Salaried,650,138012,Business Expansion,265713,1
+3966,Sara Bose,44,314720,Salaried,672,411682,Medical,84003,0
+3967,Aisha Bose,41,1085746,Self-Employed,637,531834,Home Renovation,349542,1
+3968,Aarav Nair,41,729789,Salaried,722,1365061,Medical,5776,0
+3969,Vivaan Nair,29,874130,Self-Employed,616,880635,Car Purchase,295826,0
+3970,Aditya Nair,33,336115,Salaried,731,226880,Business Expansion,119153,1
+3971,Vihaan Nair,33,795132,Self-Employed,620,1043638,Home Renovation,317792,0
+3972,Arjun Nair,32,402803,Salaried,700,100000,Debt Consolidation,104457,1
+3973,Sai Nair,45,326138,Salaried,752,212688,Car Purchase,67219,1
+3974,Atharv Nair,32,790367,Contract,603,906267,Car Purchase,57266,0
+3975,Ishaan Nair,26,1381073,Self-Employed,688,1600773,Medical,81146,0
+3976,Ananya Nair,38,390888,Salaried,721,710547,Education,97766,0
+3977,Diya Nair,46,404487,Salaried,651,355289,Education,28816,1
+3978,Aadhya Nair,43,459395,Contract,666,382195,Car Purchase,151356,0
+3979,Aarohi Nair,35,1030845,Salaried,645,1555594,Medical,350710,0
+3980,Anika Nair,37,304956,Self-Employed,649,241383,Car Purchase,71681,0
+3981,Myra Nair,35,817839,Salaried,666,1033773,Car Purchase,91028,0
+3982,Sara Nair,42,1026179,Self-Employed,706,767625,Car Purchase,260919,1
+3983,Aisha Nair,35,1157929,Salaried,623,648337,Car Purchase,220205,1
+3984,Aarav Rao,56,680864,Self-Employed,717,495414,Education,301445,0
+3985,Vivaan Rao,39,679410,Salaried,703,383269,Education,294233,1
+3986,Aditya Rao,37,971147,Salaried,660,567352,Car Purchase,232955,1
+3987,Vihaan Rao,42,272635,Self-Employed,650,235193,Home Renovation,0,1
+3988,Arjun Rao,41,551592,Salaried,609,720563,Education,274575,0
+3989,Sai Rao,33,699968,Salaried,717,446976,Home Renovation,320456,1
+3990,Atharv Rao,37,567181,Self-Employed,626,353901,Debt Consolidation,56048,1
+3991,Ishaan Rao,43,434273,Self-Employed,739,311692,Medical,124223,1
+3992,Ananya Rao,21,359408,Contract,514,117329,Home Renovation,86424,0
+3993,Diya Rao,31,836968,Self-Employed,598,1808987,Education,279363,0
+3994,Aadhya Rao,39,407317,Unemployed,643,433711,Debt Consolidation,0,0
+3995,Aarohi Rao,34,226901,Unemployed,652,230997,Car Purchase,51716,0
+3996,Anika Rao,32,797667,Contract,573,667312,Medical,366819,0
+3997,Myra Rao,29,629205,Salaried,675,1005290,Car Purchase,0,0
+3998,Sara Rao,38,656721,Salaried,695,1385442,Education,81496,0
+3999,Aisha Rao,34,550882,Salaried,698,537241,Home Renovation,94521,1

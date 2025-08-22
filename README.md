@@ -14,35 +14,40 @@ An end-to-end prototype that combines:
 5. Summarize documents for a quick case brief.
 6. Get an LLM-backed recommendation (approve/reject/need more docs) with justification that also considers the ML risk score.
 
-## Quickstart
+## Quickstart (Windows, cmd + conda)
 
-### 0) Python & Virtualenv
-```bash
-python -m venv .venv && source .venv/bin/activate  # on mac/linux
-# or on Windows
-# py -m venv .venv && .venv\Scripts\activate
-```
-
-### 1) Install requirements
-```bash
+### 0) Create/activate conda env
+Run these in a regular cmd prompt (not PowerShell):
+```bat
+conda create -n loanrisk python=3.10 -y
+conda activate loanrisk
 pip install -r requirements.txt
 ```
 
-> If installation fails for `faiss-cpu` on Windows, try:
-> ```bash
-> pip install faiss-cpu==1.7.4
-> ```
-> or comment it out and use a simple cosine search fallback (already included).
+Note: `faiss-cpu` and `xgboost` are skipped on Windows by default. The app will fallback gracefully; you can manually install compatible builds later if desired.
 
-### 2) Choose your LLM provider
+### 1) Choose your LLM provider
 Copy `.env.example` to `.env` and choose **one**:
 
 - **Groq** (cloud): set `LLM_PROVIDER=groq` and add `GROQ_API_KEY=...`
 - **Ollama** (local): set `LLM_PROVIDER=ollama` and ensure `ollama serve` is running.
   - Pull a model, e.g. `ollama pull gemma:2b` or `ollama pull llama3:8b`
 
-### 3) Run the app
-```bash
+### 2) Generate a larger dataset (optional)
+```bat
+python generate_data.py
+```
+This writes `data/applications_large.csv` (2,000 rows). You can also upload a CSV in the UI.
+
+### 3) Train on your chosen dataset
+- Using the UI: open the app (below), upload/select CSV, and click “Train Model”.
+- Or via script on the large dataset:
+```bat
+python train_large.py
+```
+
+### 4) Run the app
+```bat
 streamlit run app.py
 ```
 
@@ -69,6 +74,8 @@ loan-llm-assistant/
 │       │   └── employment_letter.txt
 │       └── 1002/
 │           └── bank_statement.txt
+├── generate_data.py
+├── train_large.py
 └── storage/  (created at runtime: models/, indexes/, sqlite db)
 ```
 
