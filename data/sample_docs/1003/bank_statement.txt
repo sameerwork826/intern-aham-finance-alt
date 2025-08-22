@@ -1,0 +1,18 @@
+Account Holder: Rahul Verma
+Account Number: XXXX-4532
+Period: Jan–Mar
+
+Monthly Credits:
+- Salary/Business Inflows: ₹95,000, ₹110,000, ₹105,000
+
+Monthly Debits:
+- Rent: ₹28,000
+- Utilities: ₹6,500
+- Loan EMI (Car): ₹12,500
+- Credit Card Payments: ₹14,000–₹19,000
+
+Observations:
+- Inflows are regular with moderate variance.
+- No cheque bounces observed.
+- Average monthly net surplus: ~₹40,000–₹50,000.
+

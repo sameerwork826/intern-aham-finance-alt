@@ -72,8 +72,14 @@ loan-llm-assistant/
 │       ├── 1001/
 │       │   ├── bank_statement.txt
 │       │   └── employment_letter.txt
-│       └── 1002/
-│           └── bank_statement.txt
+│       ├── 1002/
+│       │   └── bank_statement.txt
+│       ├── 1003/
+│       │   ├── bank_statement.txt
+│       │   └── employment_letter.txt
+│       └── 1004/
+│           ├── bank_statement.txt
+│           └── employment_letter.txt
 ├── generate_data.py
 ├── train_large.py
 └── storage/  (created at runtime: models/, indexes/, sqlite db)
@@ -84,6 +90,22 @@ loan-llm-assistant/
 - For PDF parsing we rely on `pypdf`. For DOCX you could add `python-docx` similarly.
 - RAG embeddings use `sentence-transformers` (MiniLM) to stay light and local.
 - If FAISS is unavailable, we fallback to cosine similarity in-memory.
+
+## Document Ingestion & RAG Testing
+- Sample folders are under `data/sample_docs/<applicant_id>`.
+- Use the app's "Ingest Applicant Documents" tab:
+  - Applicant ID: for example `1001`, `1002`, `1003`, or `1004`.
+  - Folder path: e.g. `data/sample_docs/1003`.
+  - Click "Ingest Now". This builds an embedding index under `storage/indexes/`.
+- Try the "LLM Assistant" tab to summarize and ask questions grounded in those docs.
+- Use "RAG Debug" to preview retrieved chunks.
+
+## One-command setup (Windows)
+Run everything with the provided script from a cmd prompt:
+```bat
+run_all.cmd
+```
+This will ensure the conda env exists, install requirements, generate a larger dataset, train the model, and launch the app.
 
 ## Example Prompts (in UI)
 - "Summarize this applicant's documents focusing on income stability, obligations, and anomalies."
