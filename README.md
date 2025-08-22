@@ -51,6 +51,21 @@ python train_large.py
 streamlit run app.py
 ```
 
+## Groq Setup & Troubleshooting
+- Ensure `.env` has:
+  - `LLM_PROVIDER=groq`
+  - `GROQ_API_KEY=...` (from your Groq account)
+  - Optional: `GROQ_MODEL=llama3-8b-instant` (default)
+- Common errors:
+  - `model_not_found`: The model name is invalid or not permitted. Try `llama3-8b-instant`.
+  - `Unauthorized`: Check your `GROQ_API_KEY` value and that `.env` is in the project root.
+  - If `.env` parse warnings appear, open the file and ensure each line is KEY=VALUE without quotes for simple values.
+- Test quickly:
+```bat
+conda activate loanrisk
+python groq_smoke.py
+```
+
 The app ships with a **toy dataset** and a folder of **sample docs** to try instantly.
 
 ## Project Layout

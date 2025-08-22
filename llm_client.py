@@ -8,6 +8,7 @@ class LLMClient:
         if self.provider == "groq":
             self.api_key = get_env("GROQ_API_KEY", required=True)
             self.model = get_env("GROQ_MODEL", "llama3-8b-instant")
+            self.fallback_model = "llama3-8b-instant"
         elif self.provider == "ollama":
             self.base_url = get_env("OLLAMA_BASE_URL", "http://localhost:11434")
             self.model = get_env("OLLAMA_MODEL", "gemma:2b")
@@ -17,15 +18,28 @@ class LLMClient:
     def chat(self, messages: List[Dict], temperature: float = 0.2, max_tokens: int = 512) -> str:
         if self.provider == "groq":
             # Lazy import to avoid dependency if unused
-            from groq import Groq
+            from groq import Groq, NotFoundError
             client = Groq(api_key=self.api_key)
-            resp = client.chat.completions.create(
-                model=self.model,
-                messages=messages,
-                temperature=temperature,
-                max_tokens=max_tokens,
-            )
-            return resp.choices[0].message.content.strip()
+            model_to_use = self.model or self.fallback_model
+            try:
+                resp = client.chat.completions.create(
+                    model=model_to_use,
+                    messages=messages,
+                    temperature=temperature,
+                    max_tokens=max_tokens,
+                )
+                return resp.choices[0].message.content.strip()
+            except NotFoundError:
+                # Retry with fallback model if provided model is invalid
+                if model_to_use != self.fallback_model:
+                    resp = client.chat.completions.create(
+                        model=self.fallback_model,
+                        messages=messages,
+                        temperature=temperature,
+                        max_tokens=max_tokens,
+                    )
+                    return resp.choices[0].message.content.strip()
+                raise
         else:
             # Ollama chat API
             url = f"{self.base_url}/api/chat"
