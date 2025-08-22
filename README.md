@@ -122,6 +122,8 @@ run_all.cmd
 ```
 This will ensure the conda env exists, install requirements, generate a larger dataset, train the model, and launch the app.
 
+-Deployed webiste checkout
+https://intern-aham-sameer.streamlit.app/
 ## Example Prompts (in UI)
 - "Summarize this applicant's documents focusing on income stability, obligations, and anomalies."
 - "List any missing documents needed for underwriting."
