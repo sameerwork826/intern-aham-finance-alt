@@ -1,0 +1,6 @@
+applicant_id,name,age,income,employment_status,credit_score,loan_amount,loan_purpose,existing_debt,approved
+1001,Aarav Sharma,29,800000,Salaried,730,500000,Home Renovation,150000,1
+1002,Neha Patel,35,450000,Salaried,640,700000,Debt Consolidation,300000,0
+1003,Rahul Verma,41,1200000,Self-Employed,685,1000000,Business Expansion,250000,1
+1004,Priya Iyer,26,360000,Salaried,610,400000,Education,100000,0
+1005,Anil Kumar,32,950000,Salaried,760,600000,Car Purchase,200000,1
